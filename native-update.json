@@ -1,7 +1,7 @@
 {
-  "versionCode": 38,
-  "versionName": "1.0.37-native",
+  "versionCode": 39,
+  "versionName": "1.0.38-native",
   "apkUrl": "https://raw.githubusercontent.com/jangid0008/jangidx-native-updates/main/JANGIDX-Native-Final.apk",
-  "notes": "Normal Apple-style mini player and bottom navbar design, with a simpler slide-up mini-to-full player transition.",
+  "notes": "Removed full player utility buttons, fixed 3-dot menu visibility, improved thumbnail-based background color, and aligned top controls.",
   "force": false
 }
