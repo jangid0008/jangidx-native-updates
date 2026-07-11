@@ -1,7 +1,7 @@
 {
-  "versionCode": 33,
-  "versionName": "1.0.32-native",
+  "versionCode": 34,
+  "versionName": "1.0.33-native",
   "apkUrl": "https://raw.githubusercontent.com/jangid0008/jangidx-native-updates/main/JANGIDX-Native-Final.apk",
-  "notes": "Mini-to-full player animation refined: title/buttons fade first, artwork moves to center, controls appear after half expansion.",
+  "notes": "Fixed startup autoplay, mini/full drag behavior, mini hide in full player, and player menu location.",
   "force": false
 }
