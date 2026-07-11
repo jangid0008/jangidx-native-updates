@@ -1,7 +1,7 @@
 {
-  "versionCode": 51,
-  "versionName": "1.0.50-native",
+  "versionCode": 52,
+  "versionName": "1.0.51-native",
   "apkUrl": "https://raw.githubusercontent.com/jangid0008/jangidx-native-updates/main/JANGIDX-Native-Final.apk",
-  "notes": "Added Apple Music style bottom nav with Home/Search/Library and a dark mini-player bar above it in native clone.",
+  "notes": "Refined native clone animations: smoother mini-player/nav transitions, press feedback, active tab motion and smooth page interactions.",
   "force": false
 }
