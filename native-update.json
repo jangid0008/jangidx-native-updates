@@ -1,7 +1,7 @@
 {
-  "versionCode": 32,
-  "versionName": "1.0.31-native",
+  "versionCode": 33,
+  "versionName": "1.0.32-native",
   "apkUrl": "https://raw.githubusercontent.com/jangid0008/jangidx-native-updates/main/JANGIDX-Native-Final.apk",
-  "notes": "Testing update channel is working. Native player UI refinements included.",
+  "notes": "Mini-to-full player animation refined: title/buttons fade first, artwork moves to center, controls appear after half expansion.",
   "force": false
 }
