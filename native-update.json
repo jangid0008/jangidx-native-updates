@@ -1,7 +1,7 @@
 {
-  "versionCode": 53,
-  "versionName": "1.0.52-native",
+  "versionCode": 54,
+  "versionName": "1.0.53-native",
   "apkUrl": "https://raw.githubusercontent.com/jangid0008/jangidx-native-updates/main/JANGIDX-Native-Final.apk",
-  "notes": "Fixed update popup in native clone mode. Future updates now show inside the WebView clone app.",
+  "notes": "Fixed update popup in native clone mode and switched update checks to GitHub API to avoid raw CDN cache delays.",
   "force": false
 }
