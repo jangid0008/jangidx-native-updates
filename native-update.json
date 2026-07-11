@@ -1,7 +1,7 @@
 {
-  "versionCode": 37,
-  "versionName": "1.0.36-native",
+  "versionCode": 38,
+  "versionName": "1.0.37-native",
   "apkUrl": "https://raw.githubusercontent.com/jangid0008/jangidx-native-updates/main/JANGIDX-Native-Final.apk",
-  "notes": "Mini/full transition tuned from the latest recording: less blank green panel, earlier full player fade-in, smoother nav slide-down.",
+  "notes": "Normal Apple-style mini player and bottom navbar design, with a simpler slide-up mini-to-full player transition.",
   "force": false
 }
