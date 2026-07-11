@@ -1,7 +1,7 @@
 {
-  "versionCode": 36,
-  "versionName": "1.0.35-native",
+  "versionCode": 37,
+  "versionName": "1.0.36-native",
   "apkUrl": "https://raw.githubusercontent.com/jangid0008/jangidx-native-updates/main/JANGIDX-Native-Final.apk",
-  "notes": "Mini/full transition now follows the reference video: mini morphs first, navbar slides down, and full player no longer rises as a separate bottom sheet.",
+  "notes": "Mini/full transition tuned from the latest recording: less blank green panel, earlier full player fade-in, smoother nav slide-down.",
   "force": false
 }
