@@ -1,7 +1,7 @@
 {
-  "versionCode": 52,
-  "versionName": "1.0.51-native",
+  "versionCode": 53,
+  "versionName": "1.0.52-native",
   "apkUrl": "https://raw.githubusercontent.com/jangid0008/jangidx-native-updates/main/JANGIDX-Native-Final.apk",
-  "notes": "Refined native clone animations: smoother mini-player/nav transitions, press feedback, active tab motion and smooth page interactions.",
+  "notes": "Fixed update popup in native clone mode. Future updates now show inside the WebView clone app.",
   "force": false
 }
