@@ -1,7 +1,7 @@
 {
-  "versionCode": 34,
-  "versionName": "1.0.33-native",
+  "versionCode": 35,
+  "versionName": "1.0.34-native",
   "apkUrl": "https://raw.githubusercontent.com/jangid0008/jangidx-native-updates/main/JANGIDX-Native-Final.apk",
-  "notes": "Fixed startup autoplay, mini/full drag behavior, mini hide in full player, and player menu location.",
+  "notes": "Mini player now expands upward like the reference video, navbar slides down during expansion, and full player menu stays top-right.",
   "force": false
 }
