@@ -1,7 +1,7 @@
 {
-  "versionCode": 43,
-  "versionName": "1.0.42-native",
+  "versionCode": 44,
+  "versionName": "1.0.43-native",
   "apkUrl": "https://raw.githubusercontent.com/jangid0008/jangidx-native-updates/main/JANGIDX-Native-Final.apk",
-  "notes": "Improved video overlay masking: top/bottom mask now appears during play/pause transitions and while paused to hide YouTube overlay flashes.",
+  "notes": "Made audio and video player surfaces clearly different: audio is smaller square artwork, video remains wide 16:9.",
   "force": false
 }
