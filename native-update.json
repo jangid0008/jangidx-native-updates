@@ -1,7 +1,7 @@
 {
-  "versionCode": 40,
-  "versionName": "1.0.39-native",
+  "versionCode": 41,
+  "versionName": "1.0.40-native",
   "apkUrl": "https://raw.githubusercontent.com/jangid0008/jangidx-native-updates/main/JANGIDX-Native-Final.apk",
-  "notes": "Added animated thumbnail-color background and fixed 3-dot menu so it opens as overlay without pushing the artwork down.",
+  "notes": "Removed mini-player red line, restored cleaner player timeline styling, and fixed audio/video toggle logic.",
   "force": false
 }
