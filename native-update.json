@@ -1,7 +1,7 @@
 {
-  "versionCode": 54,
-  "versionName": "1.0.53-native",
+  "versionCode": 55,
+  "versionName": "1.0.54-native",
   "apkUrl": "https://raw.githubusercontent.com/jangid0008/jangidx-native-updates/main/JANGIDX-Native-Final.apk",
-  "notes": "Fixed update popup in native clone mode and switched update checks to GitHub API to avoid raw CDN cache delays.",
+  "notes": "Moved playlist creation/library section out of Home. Use Library tab to create and manage playlists.",
   "force": false
 }
