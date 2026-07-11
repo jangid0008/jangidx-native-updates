@@ -1,7 +1,7 @@
 {
-  "versionCode": 50,
-  "versionName": "1.0.49-native",
+  "versionCode": 51,
+  "versionName": "1.0.50-native",
   "apkUrl": "https://raw.githubusercontent.com/jangid0008/jangidx-native-updates/main/JANGIDX-Native-Final.apk",
-  "notes": "Native JANGIDX switched to public-release clone shell: same jangidx-music UI, buttons, player and web logic with Android bridge.",
+  "notes": "Added Apple Music style bottom nav with Home/Search/Library and a dark mini-player bar above it in native clone.",
   "force": false
 }
