@@ -1,0 +1,7 @@
+{
+  "versionCode": 32,
+  "versionName": "1.0.31-native",
+  "apkUrl": "https://raw.githubusercontent.com/jangid0008/jangidx-native-updates/main/JANGIDX-Native-Final.apk",
+  "notes": "Testing update channel is working. Native player UI refinements included.",
+  "force": false
+}
