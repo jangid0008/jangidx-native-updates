@@ -1,7 +1,7 @@
 {
-  "versionCode": 44,
-  "versionName": "1.0.43-native",
+  "versionCode": 45,
+  "versionName": "1.0.44-native",
   "apkUrl": "https://raw.githubusercontent.com/jangid0008/jangidx-native-updates/main/JANGIDX-Native-Final.apk",
-  "notes": "Made audio and video player surfaces clearly different: audio is smaller square artwork, video remains wide 16:9.",
+  "notes": "Matched public release player surface: audio thumbnail and video use the same 16:9 stage, with end guard switching video to audio before YouTube end overlay.",
   "force": false
 }
