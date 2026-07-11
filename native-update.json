@@ -1,7 +1,7 @@
 {
-  "versionCode": 41,
-  "versionName": "1.0.40-native",
+  "versionCode": 42,
+  "versionName": "1.0.41-native",
   "apkUrl": "https://raw.githubusercontent.com/jangid0008/jangidx-native-updates/main/JANGIDX-Native-Final.apk",
-  "notes": "Removed mini-player red line, restored cleaner player timeline styling, and fixed audio/video toggle logic.",
+  "notes": "Removed thumbnail image from full-player background, kept animated thumbnail colors only, added pause mask and auto-switch from paused video to audio mode.",
   "force": false
 }
