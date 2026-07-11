@@ -1,7 +1,7 @@
 {
-  "versionCode": 35,
-  "versionName": "1.0.34-native",
+  "versionCode": 36,
+  "versionName": "1.0.35-native",
   "apkUrl": "https://raw.githubusercontent.com/jangid0008/jangidx-native-updates/main/JANGIDX-Native-Final.apk",
-  "notes": "Mini player now expands upward like the reference video, navbar slides down during expansion, and full player menu stays top-right.",
+  "notes": "Mini/full transition now follows the reference video: mini morphs first, navbar slides down, and full player no longer rises as a separate bottom sheet.",
   "force": false
 }
