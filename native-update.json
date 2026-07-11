@@ -1,7 +1,7 @@
 {
-  "versionCode": 46,
-  "versionName": "1.0.45-native",
+  "versionCode": 47,
+  "versionName": "1.0.46-native",
   "apkUrl": "https://raw.githubusercontent.com/jangid0008/jangidx-native-updates/main/JANGIDX-Native-Final.apk",
-  "notes": "Adjusted full-player portrait layout to match public release spacing: top controls, large gap, 16:9 art/video stage, then details.",
+  "notes": "Copied public release art-stage sizing: audio thumbnail and video box now use the same 88% width 16:9 stage.",
   "force": false
 }
