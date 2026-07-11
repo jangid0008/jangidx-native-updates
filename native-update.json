@@ -1,7 +1,7 @@
 {
-  "versionCode": 45,
-  "versionName": "1.0.44-native",
+  "versionCode": 46,
+  "versionName": "1.0.45-native",
   "apkUrl": "https://raw.githubusercontent.com/jangid0008/jangidx-native-updates/main/JANGIDX-Native-Final.apk",
-  "notes": "Matched public release player surface: audio thumbnail and video use the same 16:9 stage, with end guard switching video to audio before YouTube end overlay.",
+  "notes": "Adjusted full-player portrait layout to match public release spacing: top controls, large gap, 16:9 art/video stage, then details.",
   "force": false
 }
