@@ -1,7 +1,7 @@
 {
-  "versionCode": 65,
-  "versionName": "1.0.64-native",
+  "versionCode": 66,
+  "versionName": "1.0.65-native",
   "apkUrl": "https://raw.githubusercontent.com/jangid0008/jangidx-native-updates/main/JANGIDX-Native-Final.apk",
-  "notes": "Play/pause now triggers an Apple Music-style thumbnail pop animation instead of only changing the icon.",
+  "notes": "Thumbnail now animates by play state: larger while playing and smaller while paused.",
   "force": false
 }
