@@ -1,7 +1,7 @@
 {
-  "versionCode": 62,
-  "versionName": "1.0.61-native",
+  "versionCode": 63,
+  "versionName": "1.0.62-native",
   "apkUrl": "https://raw.githubusercontent.com/jangid0008/jangidx-native-updates/main/JANGIDX-Native-Final.apk",
-  "notes": "Bottom video mask strengthened slightly to hide the remaining light fade while keeping the full video area visible.",
+  "notes": "Audio-mode cover art now shows the full thumbnail without cropping.",
   "force": false
 }
