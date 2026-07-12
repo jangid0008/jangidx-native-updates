@@ -1,7 +1,7 @@
 {
-  "versionCode": 57,
-  "versionName": "1.0.56-native",
+  "versionCode": 58,
+  "versionName": "1.0.57-native",
   "apkUrl": "https://raw.githubusercontent.com/jangid0008/jangidx-native-updates/main/JANGIDX-Native-Final.apk",
-  "notes": "Native full player fixed to public-release style: big square video/art box above title with centered 16:9 video letterbox.",
+  "notes": "Native full player refined closer to JANGIDX Music: cream progress, dark controls, two-line title, square art/video stage.",
   "force": false
 }
