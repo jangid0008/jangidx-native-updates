@@ -1,7 +1,7 @@
 {
-  "versionCode": 60,
-  "versionName": "1.0.59-native",
+  "versionCode": 61,
+  "versionName": "1.0.60-native",
   "apkUrl": "https://raw.githubusercontent.com/jangid0008/jangidx-native-updates/main/JANGIDX-Native-Final.apk",
-  "notes": "Video mode now blocks YouTube iframe touches and crops/black-bars the video surface to hide title/share/YouTube overlays like JANGIDX Music.",
+  "notes": "Video mode now uses the same light gradient masking style as JANGIDX Music so the full video area stays visible while YouTube overlays remain hidden.",
   "force": false
 }
