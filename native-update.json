@@ -1,7 +1,7 @@
 {
-  "versionCode": 64,
-  "versionName": "1.0.63-native",
+  "versionCode": 65,
+  "versionName": "1.0.64-native",
   "apkUrl": "https://raw.githubusercontent.com/jangid0008/jangidx-native-updates/main/JANGIDX-Native-Final.apk",
-  "notes": "Removed the top-left collapse button from full player and smoothed the play/pause icon transition.",
+  "notes": "Play/pause now triggers an Apple Music-style thumbnail pop animation instead of only changing the icon.",
   "force": false
 }
