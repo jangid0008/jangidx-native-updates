@@ -1,7 +1,7 @@
 {
-  "versionCode": 56,
-  "versionName": "1.0.55-native",
+  "versionCode": 57,
+  "versionName": "1.0.56-native",
   "apkUrl": "https://raw.githubusercontent.com/jangid0008/jangidx-native-updates/main/JANGIDX-Native-Final.apk",
-  "notes": "Switched app back to maximum native mode: Kotlin/Compose UI with native Home, Search, Library, mini-player and update flow.",
+  "notes": "Native full player fixed to public-release style: big square video/art box above title with centered 16:9 video letterbox.",
   "force": false
 }
