@@ -1,7 +1,7 @@
 {
-  "versionCode": 61,
-  "versionName": "1.0.60-native",
+  "versionCode": 62,
+  "versionName": "1.0.61-native",
   "apkUrl": "https://raw.githubusercontent.com/jangid0008/jangidx-native-updates/main/JANGIDX-Native-Final.apk",
-  "notes": "Video mode now uses the same light gradient masking style as JANGIDX Music so the full video area stays visible while YouTube overlays remain hidden.",
+  "notes": "Bottom video mask strengthened slightly to hide the remaining light fade while keeping the full video area visible.",
   "force": false
 }
