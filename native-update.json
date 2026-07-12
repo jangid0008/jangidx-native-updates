@@ -1,7 +1,7 @@
 {
-  "versionCode": 58,
-  "versionName": "1.0.57-native",
+  "versionCode": 59,
+  "versionName": "1.0.58-native",
   "apkUrl": "https://raw.githubusercontent.com/jangid0008/jangidx-native-updates/main/JANGIDX-Native-Final.apk",
-  "notes": "Native full player refined closer to JANGIDX Music: cream progress, dark controls, two-line title, square art/video stage.",
+  "notes": "Native full player now uses JANGIDX Music grid-style layout with computed square art stage, bottom breathing space and permanent video masks.",
   "force": false
 }
