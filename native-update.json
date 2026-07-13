@@ -1,7 +1,7 @@
 {
-  "versionCode": 83,
-  "versionName": "1.0.82-native",
+  "versionCode": 84,
+  "versionName": "1.0.83-native",
   "apkUrl": "https://raw.githubusercontent.com/jangid0008/jangidx-native-updates/main/JANGIDX-Native-Final.apk",
-  "notes": "Timeline progress now has a rounded start cap with a flat moving edge.",
+  "notes": "Full-player 3-dot menu now opens as an overlay without moving the player layout.",
   "force": false
 }
