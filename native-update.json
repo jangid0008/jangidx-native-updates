@@ -1,7 +1,7 @@
 {
-  "versionCode": 93,
-  "versionName": "1.0.92-native",
+  "versionCode": 94,
+  "versionName": "1.0.93-native",
   "apkUrl": "https://raw.githubusercontent.com/jangid0008/jangidx-native-updates/main/JANGIDX-Native-Final.apk",
-  "notes": "Quick Picks song rows now match Auto Suggest text and thumbnail sizing.",
+  "notes": "Auto Suggest shows loading on app start and mini-player play reloads zero-duration tracks before playing.",
   "force": false
 }
