@@ -1,7 +1,7 @@
 {
-  "versionCode": 103,
-  "versionName": "1.0.102-native",
+  "versionCode": 104,
+  "versionName": "1.0.103-native",
   "apkUrl": "https://raw.githubusercontent.com/jangid0008/jangidx-native-updates/main/JANGIDX-Native-Final.apk",
-  "notes": "Playlist detail cleaned to Save and Play only, total playlist time added when available, and Search header stays fixed while scrolling.",
+  "notes": "Search header now hides on playlist detail, playlist title is smaller, and playlist cover shadow is improved.",
   "force": false
 }
