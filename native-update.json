@@ -1,7 +1,7 @@
 {
-  "versionCode": 75,
-  "versionName": "1.0.74-native",
+  "versionCode": 76,
+  "versionName": "1.0.75-native",
   "apkUrl": "https://raw.githubusercontent.com/jangid0008/jangidx-native-updates/main/JANGIDX-Native-Final.apk",
-  "notes": "App now uses immersive fullscreen mode hiding the status and navigation bars.",
+  "notes": "Home, search and library backgrounds are pure black and section panel borders are removed.",
   "force": false
 }
