@@ -1,7 +1,7 @@
 {
-  "versionCode": 78,
-  "versionName": "1.0.77-native",
+  "versionCode": 79,
+  "versionName": "1.0.78-native",
   "apkUrl": "https://raw.githubusercontent.com/jangid0008/jangidx-native-updates/main/JANGIDX-Native-Final.apk",
-  "notes": "Home, search and library pages are black, with Quick Picks and Auto Suggest shown without panel borders.",
+  "notes": "Full player top controls now sit lower with safe spacing from the status bar.",
   "force": false
 }
