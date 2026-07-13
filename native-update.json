@@ -1,7 +1,7 @@
 {
-  "versionCode": 88,
-  "versionName": "1.0.87-native",
+  "versionCode": 89,
+  "versionName": "1.0.88-native",
   "apkUrl": "https://raw.githubusercontent.com/jangid0008/jangidx-native-updates/main/JANGIDX-Native-Final.apk",
-  "notes": "Quick Picks name is restored with a compact Apple Music-style row design and side thumbnails.",
+  "notes": "Quick Picks uses compact rows again with horizontal slide paging restored.",
   "force": false
 }
