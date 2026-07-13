@@ -1,7 +1,7 @@
 {
-  "versionCode": 68,
-  "versionName": "1.0.67-native",
+  "versionCode": 69,
+  "versionName": "1.0.68-native",
   "apkUrl": "https://raw.githubusercontent.com/jangid0008/jangidx-native-updates/main/JANGIDX-Native-Final.apk",
-  "notes": "Removed media-surface gradients so thumbnail/video stays clean with only natural black letterbox strips.",
+  "notes": "Video iframe now fills the square stage again so YouTube overlays sit on black letterbox strips, not over the video.",
   "force": false
 }
