@@ -1,7 +1,7 @@
 {
-  "versionCode": 85,
-  "versionName": "1.0.84-native",
+  "versionCode": 86,
+  "versionName": "1.0.85-native",
   "apkUrl": "https://raw.githubusercontent.com/jangid0008/jangidx-native-updates/main/JANGIDX-Native-Final.apk",
-  "notes": "Timeline layout now matches JANGIDX Music style with inline time labels and a slim 9dp progress bar.",
+  "notes": "Home top search and account pills are slimmer, with account text centered.",
   "force": false
 }
