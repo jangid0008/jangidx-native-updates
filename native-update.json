@@ -1,7 +1,7 @@
 {
-  "versionCode": 81,
-  "versionName": "1.0.80-native",
+  "versionCode": 82,
+  "versionName": "1.0.81-native",
   "apkUrl": "https://raw.githubusercontent.com/jangid0008/jangidx-native-updates/main/JANGIDX-Native-Final.apk",
-  "notes": "Status bar now blends with the full-player background and the active timeline progress is flat.",
+  "notes": "Home, search and library top spacing is back to normal while keeping the full-player status bar blend.",
   "force": false
 }
