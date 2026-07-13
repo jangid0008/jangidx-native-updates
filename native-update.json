@@ -1,7 +1,7 @@
 {
-  "versionCode": 98,
-  "versionName": "1.0.97-native",
+  "versionCode": 99,
+  "versionName": "1.0.98-native",
   "apkUrl": "https://raw.githubusercontent.com/jangid0008/jangidx-native-updates/main/JANGIDX-Native-Final.apk",
-  "notes": "Search playlists expanded with many YouTube Music style playlist cards and playlist-cover thumbnails.",
+  "notes": "Search now loads real YouTube Music playlists and playlist songs while keeping the existing iframe player.",
   "force": false
 }
