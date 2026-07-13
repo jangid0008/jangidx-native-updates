@@ -1,7 +1,7 @@
 {
-  "versionCode": 73,
-  "versionName": "1.0.72-native",
+  "versionCode": 74,
+  "versionName": "1.0.73-native",
   "apkUrl": "https://raw.githubusercontent.com/jangid0008/jangidx-native-updates/main/JANGIDX-Native-Final.apk",
-  "notes": "End-screen overlay hiding starts at 21 seconds remaining, media stage is larger, paused media shrinks more, and the timeline is softer.",
+  "notes": "Timeline is now a custom Apple Music-style pill progress bar with no visible thumb.",
   "force": false
 }
