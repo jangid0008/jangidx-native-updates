@@ -1,7 +1,7 @@
 {
-  "versionCode": 100,
-  "versionName": "1.0.99-native",
+  "versionCode": 101,
+  "versionName": "1.0.100-native",
   "apkUrl": "https://raw.githubusercontent.com/jangid0008/jangidx-native-updates/main/JANGIDX-Native-Final.apk",
-  "notes": "Search now includes all provided genre and mood titles, plus YouTube Music playlists and albums.",
+  "notes": "Playlist details now load full YouTube Music playlist pages and playlist-card corner icons are removed.",
   "force": false
 }
