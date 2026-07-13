@@ -1,7 +1,7 @@
 {
-  "versionCode": 76,
-  "versionName": "1.0.75-native",
+  "versionCode": 77,
+  "versionName": "1.0.76-native",
   "apkUrl": "https://raw.githubusercontent.com/jangid0008/jangidx-native-updates/main/JANGIDX-Native-Final.apk",
-  "notes": "Home, search and library backgrounds are pure black and section panel borders are removed.",
+  "notes": "Status bar is visible again and the timeline progress edge is flat.",
   "force": false
 }
