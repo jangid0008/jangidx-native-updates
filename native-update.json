@@ -1,7 +1,7 @@
 {
-  "versionCode": 69,
-  "versionName": "1.0.68-native",
+  "versionCode": 70,
+  "versionName": "1.0.69-native",
   "apkUrl": "https://raw.githubusercontent.com/jangid0008/jangidx-native-updates/main/JANGIDX-Native-Final.apk",
-  "notes": "Video iframe now fills the square stage again so YouTube overlays sit on black letterbox strips, not over the video.",
+  "notes": "Top and bottom overlay masks now exactly match the natural YouTube letterbox strips so they hide overlays without covering the video.",
   "force": false
 }
