@@ -1,7 +1,7 @@
 {
-  "versionCode": 97,
-  "versionName": "1.0.96-native",
+  "versionCode": 98,
+  "versionName": "1.0.97-native",
   "apkUrl": "https://raw.githubusercontent.com/jangid0008/jangidx-native-updates/main/JANGIDX-Native-Final.apk",
-  "notes": "Search explore now opens playlist thumbnail grids and playlist detail pages with songs.",
+  "notes": "Search playlists expanded with many YouTube Music style playlist cards and playlist-cover thumbnails.",
   "force": false
 }
