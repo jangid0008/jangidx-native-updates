@@ -1,7 +1,7 @@
 {
-  "versionCode": 87,
-  "versionName": "1.0.86-native",
+  "versionCode": 88,
+  "versionName": "1.0.87-native",
   "apkUrl": "https://raw.githubusercontent.com/jangid0008/jangidx-native-updates/main/JANGIDX-Native-Final.apk",
-  "notes": "Quick Picks now uses a Best New Songs layout with clean rows, dividers and 3-dot actions.",
+  "notes": "Quick Picks name is restored with a compact Apple Music-style row design and side thumbnails.",
   "force": false
 }
