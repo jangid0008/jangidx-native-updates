@@ -1,7 +1,7 @@
 {
-  "versionCode": 72,
-  "versionName": "1.0.71-native",
+  "versionCode": 73,
+  "versionName": "1.0.72-native",
   "apkUrl": "https://raw.githubusercontent.com/jangid0008/jangidx-native-updates/main/JANGIDX-Native-Final.apk",
-  "notes": "YouTube end-screen recommendation overlays are hidden near the end while staying in video mode.",
+  "notes": "End-screen overlay hiding starts at 21 seconds remaining, media stage is larger, paused media shrinks more, and the timeline is softer.",
   "force": false
 }
