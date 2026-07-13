@@ -1,7 +1,7 @@
 {
-  "versionCode": 94,
-  "versionName": "1.0.93-native",
+  "versionCode": 95,
+  "versionName": "1.0.94-native",
   "apkUrl": "https://raw.githubusercontent.com/jangid0008/jangidx-native-updates/main/JANGIDX-Native-Final.apk",
-  "notes": "Auto Suggest shows loading on app start and mini-player play reloads zero-duration tracks before playing.",
+  "notes": "Search page now has Bollywood, Haryanvi, Punjabi, Rajasthani, Love, Work Out and Relax category tiles.",
   "force": false
 }
