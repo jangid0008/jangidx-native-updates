@@ -1,7 +1,7 @@
 {
-  "versionCode": 79,
-  "versionName": "1.0.78-native",
+  "versionCode": 80,
+  "versionName": "1.0.79-native",
   "apkUrl": "https://raw.githubusercontent.com/jangid0008/jangidx-native-updates/main/JANGIDX-Native-Final.apk",
-  "notes": "Full player top controls now sit lower with safe spacing from the status bar.",
+  "notes": "Audio/video toggle and 3-dot menu are moved further down from the top edge.",
   "force": false
 }
