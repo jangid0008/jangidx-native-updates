@@ -1,7 +1,7 @@
 {
-  "versionCode": 102,
-  "versionName": "1.0.101-native",
+  "versionCode": 103,
+  "versionName": "1.0.102-native",
   "apkUrl": "https://raw.githubusercontent.com/jangid0008/jangidx-native-updates/main/JANGIDX-Native-Final.apk",
-  "notes": "Playlist back button behavior fixed and playlist detail screen redesigned with a larger YouTube Music style header.",
+  "notes": "Playlist detail cleaned to Save and Play only, total playlist time added when available, and Search header stays fixed while scrolling.",
   "force": false
 }
