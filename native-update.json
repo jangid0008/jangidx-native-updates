@@ -1,7 +1,7 @@
 {
-  "versionCode": 92,
-  "versionName": "1.0.91-native",
+  "versionCode": 93,
+  "versionName": "1.0.92-native",
   "apkUrl": "https://raw.githubusercontent.com/jangid0008/jangidx-native-updates/main/JANGIDX-Native-Final.apk",
-  "notes": "Quick Picks title size is aligned with Auto Suggest and arrows are on the header row.",
+  "notes": "Quick Picks song rows now match Auto Suggest text and thumbnail sizing.",
   "force": false
 }
