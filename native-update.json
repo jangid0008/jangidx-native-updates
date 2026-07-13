@@ -1,7 +1,7 @@
 {
-  "versionCode": 101,
-  "versionName": "1.0.100-native",
+  "versionCode": 102,
+  "versionName": "1.0.101-native",
   "apkUrl": "https://raw.githubusercontent.com/jangid0008/jangidx-native-updates/main/JANGIDX-Native-Final.apk",
-  "notes": "Playlist details now load full YouTube Music playlist pages and playlist-card corner icons are removed.",
+  "notes": "Playlist back button behavior fixed and playlist detail screen redesigned with a larger YouTube Music style header.",
   "force": false
 }
