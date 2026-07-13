@@ -1,7 +1,7 @@
 {
-  "versionCode": 77,
-  "versionName": "1.0.76-native",
+  "versionCode": 78,
+  "versionName": "1.0.77-native",
   "apkUrl": "https://raw.githubusercontent.com/jangid0008/jangidx-native-updates/main/JANGIDX-Native-Final.apk",
-  "notes": "Status bar is visible again and the timeline progress edge is flat.",
+  "notes": "Home, search and library pages are black, with Quick Picks and Auto Suggest shown without panel borders.",
   "force": false
 }
