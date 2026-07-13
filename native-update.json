@@ -1,7 +1,7 @@
 {
-  "versionCode": 99,
-  "versionName": "1.0.98-native",
+  "versionCode": 100,
+  "versionName": "1.0.99-native",
   "apkUrl": "https://raw.githubusercontent.com/jangid0008/jangidx-native-updates/main/JANGIDX-Native-Final.apk",
-  "notes": "Search now loads real YouTube Music playlists and playlist songs while keeping the existing iframe player.",
+  "notes": "Search now includes all provided genre and mood titles, plus YouTube Music playlists and albums.",
   "force": false
 }
