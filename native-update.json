@@ -1,7 +1,7 @@
 {
-  "versionCode": 80,
-  "versionName": "1.0.79-native",
+  "versionCode": 81,
+  "versionName": "1.0.80-native",
   "apkUrl": "https://raw.githubusercontent.com/jangid0008/jangidx-native-updates/main/JANGIDX-Native-Final.apk",
-  "notes": "Audio/video toggle and 3-dot menu are moved further down from the top edge.",
+  "notes": "Status bar now blends with the full-player background and the active timeline progress is flat.",
   "force": false
 }
