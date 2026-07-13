@@ -1,7 +1,7 @@
 {
-  "versionCode": 74,
-  "versionName": "1.0.73-native",
+  "versionCode": 75,
+  "versionName": "1.0.74-native",
   "apkUrl": "https://raw.githubusercontent.com/jangid0008/jangidx-native-updates/main/JANGIDX-Native-Final.apk",
-  "notes": "Timeline is now a custom Apple Music-style pill progress bar with no visible thumb.",
+  "notes": "App now uses immersive fullscreen mode hiding the status and navigation bars.",
   "force": false
 }
