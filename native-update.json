@@ -1,7 +1,7 @@
 {
-  "versionCode": 82,
-  "versionName": "1.0.81-native",
+  "versionCode": 83,
+  "versionName": "1.0.82-native",
   "apkUrl": "https://raw.githubusercontent.com/jangid0008/jangidx-native-updates/main/JANGIDX-Native-Final.apk",
-  "notes": "Home, search and library top spacing is back to normal while keeping the full-player status bar blend.",
+  "notes": "Timeline progress now has a rounded start cap with a flat moving edge.",
   "force": false
 }
