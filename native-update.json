@@ -1,7 +1,7 @@
 {
-  "versionCode": 95,
-  "versionName": "1.0.94-native",
+  "versionCode": 96,
+  "versionName": "1.0.95-native",
   "apkUrl": "https://raw.githubusercontent.com/jangid0008/jangidx-native-updates/main/JANGIDX-Native-Final.apk",
-  "notes": "Search page now has Bollywood, Haryanvi, Punjabi, Rajasthani, Love, Work Out and Relax category tiles.",
+  "notes": "Search now works like category to playlists to songs, with Bollywood, Haryanvi, Punjabi, Rajasthani, Love, Work Out and Relax.",
   "force": false
 }
