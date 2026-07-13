@@ -1,7 +1,7 @@
 {
-  "versionCode": 91,
-  "versionName": "1.0.90-native",
+  "versionCode": 92,
+  "versionName": "1.0.91-native",
   "apkUrl": "https://raw.githubusercontent.com/jangid0008/jangidx-native-updates/main/JANGIDX-Native-Final.apk",
-  "notes": "Home top bar is sticky and Quick Picks/Auto Suggest now show loading skeleton rows.",
+  "notes": "Quick Picks title size is aligned with Auto Suggest and arrows are on the header row.",
   "force": false
 }
