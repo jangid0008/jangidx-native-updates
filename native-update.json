@@ -1,7 +1,7 @@
 {
-  "versionCode": 70,
-  "versionName": "1.0.69-native",
+  "versionCode": 71,
+  "versionName": "1.0.70-native",
   "apkUrl": "https://raw.githubusercontent.com/jangid0008/jangidx-native-updates/main/JANGIDX-Native-Final.apk",
-  "notes": "Top and bottom overlay masks now exactly match the natural YouTube letterbox strips so they hide overlays without covering the video.",
+  "notes": "Timeline is now a white progress line and video mode no longer auto-switches back to audio.",
   "force": false
 }
