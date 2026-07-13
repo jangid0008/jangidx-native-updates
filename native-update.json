@@ -1,7 +1,7 @@
 {
-  "versionCode": 90,
-  "versionName": "1.0.89-native",
+  "versionCode": 91,
+  "versionName": "1.0.90-native",
   "apkUrl": "https://raw.githubusercontent.com/jangid0008/jangidx-native-updates/main/JANGIDX-Native-Final.apk",
-  "notes": "Quick Picks now shows a right-side peek hint so users know more songs are available by swiping.",
+  "notes": "Home top bar is sticky and Quick Picks/Auto Suggest now show loading skeleton rows.",
   "force": false
 }
