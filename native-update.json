@@ -1,7 +1,7 @@
 {
-  "versionCode": 114,
-  "versionName": "1.0.113-native",
+  "versionCode": 115,
+  "versionName": "1.0.114-native",
   "apkUrl": "https://raw.githubusercontent.com/jangid0008/jangidx-native-updates/main/JANGIDX-Native-Final.apk",
-  "notes": "Play/pause button rebuilt, My Playlist Saved toggles unsave, playlist cover is wider with rounded foreground, Create moved lower, Search keyboard only opens in result mode, and Rajasthani appears on Search first page.",
+  "notes": "Download menu clarified as Save to Downloads list because YouTube media is not downloaded offline; playback still needs internet.",
   "force": false
 }
