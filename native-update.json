@@ -1,7 +1,7 @@
 {
-  "versionCode": 104,
-  "versionName": "1.0.103-native",
+  "versionCode": 105,
+  "versionName": "1.0.104-native",
   "apkUrl": "https://raw.githubusercontent.com/jangid0008/jangidx-native-updates/main/JANGIDX-Native-Final.apk",
-  "notes": "Search header now hides on playlist detail, playlist title is smaller, and playlist cover shadow is improved.",
+  "notes": "Playlist cover is smaller and lower, and playlist meta, Save, and Play buttons are restyled to match the app theme.",
   "force": false
 }
