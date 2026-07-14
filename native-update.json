@@ -1,7 +1,7 @@
 {
-  "versionCode": 118,
-  "versionName": "1.0.117-native",
+  "versionCode": 119,
+  "versionName": "1.0.118-native",
   "apkUrl": "https://raw.githubusercontent.com/jangid0008/jangidx-native-updates/main/JANGIDX-Native-Final.apk",
-  "notes": "Playlist detail thumbnail corners now match playlist grid cards.",
+  "notes": "Playlist detail background image now fades full-bleed like the reference and Create button is lower.",
   "force": false
 }
