@@ -1,7 +1,7 @@
 {
-  "versionCode": 115,
-  "versionName": "1.0.114-native",
+  "versionCode": 116,
+  "versionName": "1.0.115-native",
   "apkUrl": "https://raw.githubusercontent.com/jangid0008/jangidx-native-updates/main/JANGIDX-Native-Final.apk",
-  "notes": "Download menu clarified as Save to Downloads list because YouTube media is not downloaded offline; playback still needs internet.",
+  "notes": "Playlist detail cover returned to previous thumbnail size with rounded corners and Create button moved lower above mini-player.",
   "force": false
 }
