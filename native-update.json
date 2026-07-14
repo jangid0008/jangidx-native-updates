@@ -1,7 +1,7 @@
 {
-  "versionCode": 116,
-  "versionName": "1.0.115-native",
+  "versionCode": 117,
+  "versionName": "1.0.116-native",
   "apkUrl": "https://raw.githubusercontent.com/jangid0008/jangidx-native-updates/main/JANGIDX-Native-Final.apk",
-  "notes": "Playlist detail cover returned to previous thumbnail size with rounded corners and Create button moved lower above mini-player.",
+  "notes": "Playlist detail cover outer corner is now clipped so thumbnail corners are fully rounded.",
   "force": false
 }
