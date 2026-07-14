@@ -1,7 +1,7 @@
 {
-  "versionCode": 112,
-  "versionName": "1.0.111-native",
+  "versionCode": 113,
+  "versionName": "1.0.112-native",
   "apkUrl": "https://raw.githubusercontent.com/jangid0008/jangidx-native-updates/main/JANGIDX-Native-Final.apk",
-  "notes": "Library header and Create button are sticky, playlist Save toggles unsave, mini-player right button is now Like, Liked Music is real liked list, and playlist covers are rounder.",
+  "notes": "Playlist song rows no longer show 3-dot, Search tab second tap focuses keyboard, and full-player play button is smaller with full hit area.",
   "force": false
 }
