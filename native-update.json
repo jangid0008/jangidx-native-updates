@@ -1,7 +1,7 @@
 {
-  "versionCode": 106,
-  "versionName": "1.0.105-native",
+  "versionCode": 107,
+  "versionName": "1.0.106-native",
   "apkUrl": "https://raw.githubusercontent.com/jangid0008/jangidx-native-updates/main/JANGIDX-Native-Final.apk",
-  "notes": "Library cleaned up with Liked Music, Downloads, My Playlists, and a bottom New playlist flow.",
+  "notes": "Progress bar rounded-start bug fixed, last song now loads on app start, and the full-player play button touch area is improved.",
   "force": false
 }
