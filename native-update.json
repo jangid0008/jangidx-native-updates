@@ -1,7 +1,7 @@
 {
-  "versionCode": 113,
-  "versionName": "1.0.112-native",
+  "versionCode": 114,
+  "versionName": "1.0.113-native",
   "apkUrl": "https://raw.githubusercontent.com/jangid0008/jangidx-native-updates/main/JANGIDX-Native-Final.apk",
-  "notes": "Playlist song rows no longer show 3-dot, Search tab second tap focuses keyboard, and full-player play button is smaller with full hit area.",
+  "notes": "Play/pause button rebuilt, My Playlist Saved toggles unsave, playlist cover is wider with rounded foreground, Create moved lower, Search keyboard only opens in result mode, and Rajasthani appears on Search first page.",
   "force": false
 }
