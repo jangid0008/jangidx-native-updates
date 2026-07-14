@@ -1,7 +1,7 @@
 {
-  "versionCode": 119,
-  "versionName": "1.0.118-native",
+  "versionCode": 120,
+  "versionName": "1.0.119-native",
   "apkUrl": "https://raw.githubusercontent.com/jangid0008/jangidx-native-updates/main/JANGIDX-Native-Final.apk",
-  "notes": "Playlist detail background image now fades full-bleed like the reference and Create button is lower.",
+  "notes": "Playlist detail background is brighter at top and fades out before the cover bottom.",
   "force": false
 }
