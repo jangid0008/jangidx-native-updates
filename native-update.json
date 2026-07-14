@@ -1,7 +1,7 @@
 {
-  "versionCode": 111,
-  "versionName": "1.0.110-native",
+  "versionCode": 112,
+  "versionName": "1.0.111-native",
   "apkUrl": "https://raw.githubusercontent.com/jangid0008/jangidx-native-updates/main/JANGIDX-Native-Final.apk",
-  "notes": "Playlist Save button now shows Save/Saved with matching heart state, and My Playlists shows song count plus duration when available.",
+  "notes": "Library header and Create button are sticky, playlist Save toggles unsave, mini-player right button is now Like, Liked Music is real liked list, and playlist covers are rounder.",
   "force": false
 }
