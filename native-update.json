@@ -1,7 +1,7 @@
 {
-  "versionCode": 109,
-  "versionName": "1.0.108-native",
+  "versionCode": 110,
+  "versionName": "1.0.109-native",
   "apkUrl": "https://raw.githubusercontent.com/jangid0008/jangidx-native-updates/main/JANGIDX-Native-Final.apk",
-  "notes": "Library saved playlists now open like search playlists, Downloads and Liked Music have pages, Download menu fixed, Search first page shows search bar, and full-player play button hit-area improved.",
+  "notes": "Saved playlists now keep original YouTube Music playlist thumbnail/details, My Playlists opens with the same playlist-style UI, and Save heart fills after saving.",
   "force": false
 }
