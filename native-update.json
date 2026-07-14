@@ -1,7 +1,7 @@
 {
-  "versionCode": 108,
-  "versionName": "1.0.107-native",
+  "versionCode": 109,
+  "versionName": "1.0.108-native",
   "apkUrl": "https://raw.githubusercontent.com/jangid0008/jangidx-native-updates/main/JANGIDX-Native-Final.apk",
-  "notes": "Startup autoplay stopped, full-player play button touch fixed, downloads added to Library, playlist Save works, and Search tab flow updated.",
+  "notes": "Library saved playlists now open like search playlists, Downloads and Liked Music have pages, Download menu fixed, Search first page shows search bar, and full-player play button hit-area improved.",
   "force": false
 }
