@@ -1,7 +1,7 @@
 {
-  "versionCode": 135,
-  "versionName": "1.0.134-native",
+  "versionCode": 137,
+  "versionName": "1.0.136-native",
   "apkUrl": "https://raw.githubusercontent.com/jangid0008/jangidx-native-updates/main/JANGIDX-Native-Final.apk",
-  "notes": "Made the full-player thumbnail color background darker and more subtle.",
+  "notes": "Fixed full-player play button hit area with a larger center tap layer.",
   "force": false
 }
