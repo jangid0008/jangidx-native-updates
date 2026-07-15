@@ -1,7 +1,7 @@
 {
-  "versionCode": 123,
-  "versionName": "1.0.122-native",
+  "versionCode": 124,
+  "versionName": "1.0.123-native",
   "apkUrl": "https://raw.githubusercontent.com/jangid0008/jangidx-native-updates/main/JANGIDX-Native-Final.apk",
-  "notes": "Removed the colored strip under playlist thumbnail by forcing the hero bottom fade to black.",
+  "notes": "Removed the remaining blue line above playlist title with stronger black fade and spacing under thumbnail.",
   "force": false
 }
