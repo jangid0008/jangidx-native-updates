@@ -1,7 +1,7 @@
 {
-  "versionCode": 132,
-  "versionName": "1.0.131-native",
+  "versionCode": 133,
+  "versionName": "1.0.132-native",
   "apkUrl": "https://raw.githubusercontent.com/jangid0008/jangidx-native-updates/main/JANGIDX-Native-Final.apk",
-  "notes": "Clarified Download behavior: songs save to Library Downloads, playback still needs internet.",
+  "notes": "Improved playlist thumbnails, instant player background color, play/pause hit area, and richer playlist/album search ordering.",
   "force": false
 }
