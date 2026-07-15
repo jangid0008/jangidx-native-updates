@@ -1,7 +1,7 @@
 {
-  "versionCode": 134,
-  "versionName": "1.0.133-native",
+  "versionCode": 135,
+  "versionName": "1.0.134-native",
   "apkUrl": "https://raw.githubusercontent.com/jangid0008/jangidx-native-updates/main/JANGIDX-Native-Final.apk",
-  "notes": "Reduced queued-song play delay and widened the full-player play/pause tap area.",
+  "notes": "Made the full-player thumbnail color background darker and more subtle.",
   "force": false
 }
