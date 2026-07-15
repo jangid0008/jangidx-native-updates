@@ -1,7 +1,7 @@
 {
-  "versionCode": 130,
-  "versionName": "1.0.129-native",
+  "versionCode": 131,
+  "versionName": "1.0.130-native",
   "apkUrl": "https://raw.githubusercontent.com/jangid0008/jangidx-native-updates/main/JANGIDX-Native-Final.apk",
-  "notes": "Added Echo-style Downloads flow for songs and playlists in Library Downloads.",
+  "notes": "Removed playlist detail Download button; current song Download stays in the full-player menu.",
   "force": false
 }
