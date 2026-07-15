@@ -1,7 +1,7 @@
 {
-  "versionCode": 124,
-  "versionName": "1.0.123-native",
+  "versionCode": 125,
+  "versionName": "1.0.124-native",
   "apkUrl": "https://raw.githubusercontent.com/jangid0008/jangidx-native-updates/main/JANGIDX-Native-Final.apk",
-  "notes": "Removed the remaining blue line above playlist title with stronger black fade and spacing under thumbnail.",
+  "notes": "Added a thin black fade mask to the bottom of playlist thumbnail to remove the remaining colored strip.",
   "force": false
 }
