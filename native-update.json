@@ -1,7 +1,7 @@
 {
-  "versionCode": 122,
-  "versionName": "1.0.121-native",
+  "versionCode": 123,
+  "versionName": "1.0.122-native",
   "apkUrl": "https://raw.githubusercontent.com/jangid0008/jangidx-native-updates/main/JANGIDX-Native-Final.apk",
-  "notes": "Playlist detail blurred cover now ends at the thumbnail bottom with a dark gradient, not full screen.",
+  "notes": "Removed the colored strip under playlist thumbnail by forcing the hero bottom fade to black.",
   "force": false
 }
