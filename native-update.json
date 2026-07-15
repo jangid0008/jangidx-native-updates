@@ -1,7 +1,7 @@
 {
-  "versionCode": 125,
-  "versionName": "1.0.124-native",
+  "versionCode": 126,
+  "versionName": "1.0.125-native",
   "apkUrl": "https://raw.githubusercontent.com/jangid0008/jangidx-native-updates/main/JANGIDX-Native-Final.apk",
-  "notes": "Added a thin black fade mask to the bottom of playlist thumbnail to remove the remaining colored strip.",
+  "notes": "Removed the thumbnail mask and cropped playlist cover images to cut the bottom colored strip.",
   "force": false
 }
