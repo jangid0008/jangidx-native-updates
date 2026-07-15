@@ -1,7 +1,7 @@
 {
-  "versionCode": 127,
-  "versionName": "1.0.126-native",
+  "versionCode": 128,
+  "versionName": "1.0.127-native",
   "apkUrl": "https://raw.githubusercontent.com/jangid0008/jangidx-native-updates/main/JANGIDX-Native-Final.apk",
-  "notes": "Restored center playlist thumbnail and limited blurred background to top area only so no colored strip appears below it.",
+  "notes": "Added playlist open animation: blurred background appears first, then center thumbnail fades and scales in.",
   "force": false
 }
