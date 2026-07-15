@@ -1,7 +1,7 @@
 {
-  "versionCode": 126,
-  "versionName": "1.0.125-native",
+  "versionCode": 127,
+  "versionName": "1.0.126-native",
   "apkUrl": "https://raw.githubusercontent.com/jangid0008/jangidx-native-updates/main/JANGIDX-Native-Final.apk",
-  "notes": "Removed the thumbnail mask and cropped playlist cover images to cut the bottom colored strip.",
+  "notes": "Restored center playlist thumbnail and limited blurred background to top area only so no colored strip appears below it.",
   "force": false
 }
