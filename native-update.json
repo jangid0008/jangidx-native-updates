@@ -1,7 +1,7 @@
 {
-  "versionCode": 128,
-  "versionName": "1.0.127-native",
+  "versionCode": 129,
+  "versionName": "1.0.128-native",
   "apkUrl": "https://raw.githubusercontent.com/jangid0008/jangidx-native-updates/main/JANGIDX-Native-Final.apk",
-  "notes": "Added playlist open animation: blurred background appears first, then center thumbnail fades and scales in.",
+  "notes": "My Playlist detail now uses the same full-width playlist detail look as Search, and Create button is lower.",
   "force": false
 }
