@@ -1,7 +1,7 @@
 {
-  "versionCode": 121,
-  "versionName": "1.0.120-native",
+  "versionCode": 122,
+  "versionName": "1.0.121-native",
   "apkUrl": "https://raw.githubusercontent.com/jangid0008/jangidx-native-updates/main/JANGIDX-Native-Final.apk",
-  "notes": "Playlist detail top redesigned with full-screen blurred cover background, bottom dark fade, and lowered clear rounded thumbnail.",
+  "notes": "Playlist detail blurred cover now ends at the thumbnail bottom with a dark gradient, not full screen.",
   "force": false
 }
