@@ -1,7 +1,7 @@
 {
-  "versionCode": 137,
-  "versionName": "1.0.136-native",
+  "versionCode": 138,
+  "versionName": "1.0.137-native",
   "apkUrl": "https://raw.githubusercontent.com/jangid0008/jangidx-native-updates/main/JANGIDX-Native-Final.apk",
-  "notes": "Fixed full-player play button hit area with a larger center tap layer.",
+  "notes": "Removed blocking play overlay and increased full-player background contrast.",
   "force": false
 }
