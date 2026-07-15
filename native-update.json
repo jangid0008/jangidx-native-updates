@@ -1,7 +1,7 @@
 {
-  "versionCode": 131,
-  "versionName": "1.0.130-native",
+  "versionCode": 132,
+  "versionName": "1.0.131-native",
   "apkUrl": "https://raw.githubusercontent.com/jangid0008/jangidx-native-updates/main/JANGIDX-Native-Final.apk",
-  "notes": "Removed playlist detail Download button; current song Download stays in the full-player menu.",
+  "notes": "Clarified Download behavior: songs save to Library Downloads, playback still needs internet.",
   "force": false
 }
