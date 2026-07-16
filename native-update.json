@@ -1,7 +1,7 @@
 {
-  "versionCode": 146,
-  "versionName": "1.0.145-native",
+  "versionCode": 147,
+  "versionName": "1.0.146-native",
   "apkUrl": "https://raw.githubusercontent.com/jangid0008/jangidx-native-updates/main/JANGIDX-Native-Final.apk",
-  "notes": "Fixed search entry, cleaner text selection, smoother tab switching and improved full-player colors.",
+  "notes": "Improved full-player thumbnail color gradient.",
   "force": false
 }
