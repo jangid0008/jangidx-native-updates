@@ -1,7 +1,7 @@
 {
-  "versionCode": 141,
-  "versionName": "1.0.140-native",
+  "versionCode": 142,
+  "versionName": "1.0.141-native",
   "apkUrl": "https://raw.githubusercontent.com/jangid0008/jangidx-native-updates/main/JANGIDX-Native-Final.apk",
-  "notes": "Added YouTube Music-style search result tabs for songs, playlists, albums and artists.",
+  "notes": "Removed liked/history caps and adjusted full-player color gradient.",
   "force": false
 }
