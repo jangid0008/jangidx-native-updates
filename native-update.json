@@ -1,7 +1,7 @@
 {
-  "versionCode": 145,
-  "versionName": "1.0.144-native",
+  "versionCode": 146,
+  "versionName": "1.0.145-native",
   "apkUrl": "https://raw.githubusercontent.com/jangid0008/jangidx-native-updates/main/JANGIDX-Native-Final.apk",
-  "notes": "Polished artist profile UI, cleaner suggestions and expanded artist songs.",
+  "notes": "Fixed search entry, cleaner text selection, smoother tab switching and improved full-player colors.",
   "force": false
 }
