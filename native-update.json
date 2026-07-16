@@ -1,7 +1,7 @@
 {
-  "versionCode": 139,
-  "versionName": "1.0.138-native",
+  "versionCode": 140,
+  "versionName": "1.0.139-native",
   "apkUrl": "https://raw.githubusercontent.com/jangid0008/jangidx-native-updates/main/JANGIDX-Native-Final.apk",
-  "notes": "Fixed full-player play tap interception and added black-to-color background reveal.",
+  "notes": "Improved last-song first play startup and darkened full-player color background.",
   "force": false
 }
