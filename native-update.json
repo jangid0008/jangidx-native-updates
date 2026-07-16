@@ -1,7 +1,7 @@
 {
-  "versionCode": 140,
-  "versionName": "1.0.139-native",
+  "versionCode": 141,
+  "versionName": "1.0.140-native",
   "apkUrl": "https://raw.githubusercontent.com/jangid0008/jangidx-native-updates/main/JANGIDX-Native-Final.apk",
-  "notes": "Improved last-song first play startup and darkened full-player color background.",
+  "notes": "Added YouTube Music-style search result tabs for songs, playlists, albums and artists.",
   "force": false
 }
