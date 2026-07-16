@@ -1,7 +1,7 @@
 {
-  "versionCode": 143,
-  "versionName": "1.0.142-native",
+  "versionCode": 144,
+  "versionName": "1.0.143-native",
   "apkUrl": "https://raw.githubusercontent.com/jangid0008/jangidx-native-updates/main/JANGIDX-Native-Final.apk",
-  "notes": "Added real YouTube Music artist search and artist songs.",
+  "notes": "Added artist profile page, top songs view, albums and search suggestions.",
   "force": false
 }
