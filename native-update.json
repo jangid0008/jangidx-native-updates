@@ -1,7 +1,7 @@
 {
-  "versionCode": 159,
-  "versionName": "1.0.158-native",
+  "versionCode": 160,
+  "versionName": "1.0.159-native",
   "apkUrl": "https://raw.githubusercontent.com/jangid0008/jangidx-native-updates/main/JANGIDX-Native-Final.apk",
-  "notes": "Fixed search-submit suggestions, playlist loading flicker, and added more playlist songs when YouTube Music returns limited rows.",
+  "notes": "Added local Marwadi Hits cover, restored playlist ranking, and kept search results on Songs by default.",
   "force": false
 }
