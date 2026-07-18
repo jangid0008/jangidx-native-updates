@@ -1,7 +1,7 @@
 {
-  "versionCode": 158,
-  "versionName": "1.0.157-native",
+  "versionCode": 159,
+  "versionName": "1.0.158-native",
   "apkUrl": "https://raw.githubusercontent.com/jangid0008/jangidx-native-updates/main/JANGIDX-Native-Final.apk",
-  "notes": "Fixed search suggestion loop, Marwadi Hits cover/title, playlist order, player color loading, and faster play start.",
+  "notes": "Fixed search-submit suggestions, playlist loading flicker, and added more playlist songs when YouTube Music returns limited rows.",
   "force": false
 }
