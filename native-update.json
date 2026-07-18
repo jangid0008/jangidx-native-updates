@@ -1,7 +1,7 @@
 {
-  "versionCode": 156,
-  "versionName": "1.0.155-native",
+  "versionCode": 157,
+  "versionName": "1.0.156-native",
   "apkUrl": "https://raw.githubusercontent.com/jangid0008/jangidx-native-updates/main/JANGIDX-Native-Final.apk",
-  "notes": "Fixed search page reset, search suggestions, artist parsing, stronger full player colors, and smoother player open animation.",
+  "notes": "Added pinned Rajasthani YouTube Music playlist in the Rajasthani category.",
   "force": false
 }
