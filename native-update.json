@@ -1,7 +1,7 @@
 {
-  "versionCode": 147,
-  "versionName": "1.0.146-native",
+  "versionCode": 154,
+  "versionName": "1.0.153-native",
   "apkUrl": "https://raw.githubusercontent.com/jangid0008/jangidx-native-updates/main/JANGIDX-Native-Final.apk",
-  "notes": "Improved full-player thumbnail color gradient.",
+  "notes": "Fixed native YouTube Music playlists, albums, artists, search suggestions, and local player asset loading.",
   "force": false
 }
