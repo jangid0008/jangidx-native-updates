@@ -1,7 +1,7 @@
 {
-  "versionCode": 155,
-  "versionName": "1.0.154-native",
+  "versionCode": 156,
+  "versionName": "1.0.155-native",
   "apkUrl": "https://raw.githubusercontent.com/jangid0008/jangidx-native-updates/main/JANGIDX-Native-Final.apk",
-  "notes": "Improved search suggestions, artist matching, YouTube Music playlist loading, and full player background color.",
+  "notes": "Fixed search page reset, search suggestions, artist parsing, stronger full player colors, and smoother player open animation.",
   "force": false
 }
