@@ -1,6 +1,6 @@
 {
-  "versionCode": 160,
-  "versionName": "1.0.159-native",
+  "versionCode": 161,
+  "versionName": "1.0.160-native",
   "apkUrl": "https://raw.githubusercontent.com/jangid0008/jangidx-native-updates/main/JANGIDX-Native-Final.apk",
   "notes": "Fixed search focus flow, unified red-black-white search theme, smoothed playlist loading, and added active dots for full-player controls.",
   "force": false
