@@ -2,6 +2,6 @@
   "versionCode": 160,
   "versionName": "1.0.159-native",
   "apkUrl": "https://raw.githubusercontent.com/jangid0008/jangidx-native-updates/main/JANGIDX-Native-Final.apk",
-  "notes": "Added local Marwadi Hits cover, restored playlist ranking, and kept search results on Songs by default.",
+  "notes": "Fixed search focus flow, unified red-black-white search theme, smoothed playlist loading, and added active dots for full-player controls.",
   "force": false
 }
