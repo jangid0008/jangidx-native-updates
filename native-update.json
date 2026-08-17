@@ -1,7 +1,7 @@
 {
-  "versionCode": 166,
-  "versionName": "1.0.165-native",
+  "versionCode": 167,
+  "versionName": "1.0.166-native",
   "apkUrl": "https://raw.githubusercontent.com/jangid0008/jangidx-native-updates/main/JANGIDX-Native-Final.apk",
-  "notes": "Set Search flow to genres first, typing page second, and moved full-player active dot closer.",
+  "notes": "Mini player → Full player smooth expand/collapse animation: album art scales from small to large, title/artist move to full-player position, background fades/expands, navigation bar smoothly hides/shows",
   "force": false
 }
