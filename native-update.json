@@ -1,7 +1,7 @@
 {
-  "versionCode": 165,
-  "versionName": "1.0.164-native",
+  "versionCode": 166,
+  "versionName": "1.0.165-native",
   "apkUrl": "https://raw.githubusercontent.com/jangid0008/jangidx-native-updates/main/JANGIDX-Native-Final.apk",
-  "notes": "Restored genres on Search click, fixed auto-suggest loading, made suggestion taps search directly, and expanded song results.",
+  "notes": "Set Search flow to genres first, typing page second, and moved full-player active dot closer.",
   "force": false
 }
