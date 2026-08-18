@@ -1,7 +1,7 @@
 {
-  "versionCode": 167,
-  "versionName": "1.0.166-native",
+  "versionCode": 169,
+  "versionName": "1.0.168-native",
   "apkUrl": "https://raw.githubusercontent.com/jangid0008/jangidx-native-updates/main/JANGIDX-Native-Final.apk",
-  "notes": "Mini player → Full player smooth expand/collapse animation: album art scales from small to large, title/artist move to full-player position, background fades/expands, navigation bar smoothly hides/shows",
+  "notes": "Mini player ↔ Full player interactive drag animation: finger ke saath player continuously move hota hai, direction change par instantly reverse, release par smooth settle",
   "force": false
 }
