@@ -1,7 +1,7 @@
 {
-  "versionCode": 181,
-  "versionName": "1.0.180-native",
+  "versionCode": 182,
+  "versionName": "1.0.181-native",
   "apkUrl": "https://raw.githubusercontent.com/jangid0008/jangidx-native-updates/main/JANGIDX-Native-Final.apk",
-  "notes": "Published new native player build with the latest fixes.",
+  "notes": "Fixed full-player button touch alignment.",
   "force": false
 }
