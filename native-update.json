@@ -1,7 +1,7 @@
 {
-  "versionCode": 179,
-  "versionName": "1.0.178-native",
+  "versionCode": 180,
+  "versionName": "1.0.179-native",
   "apkUrl": "https://raw.githubusercontent.com/jangid0008/jangidx-native-updates/main/JANGIDX-Native-Final.apk",
-  "notes": "Moved full-player control touch targets onto the visible button positions.",
+  "notes": "Published latest full-player control touch alignment build.",
   "force": false
 }
