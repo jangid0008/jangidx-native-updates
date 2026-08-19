@@ -1,7 +1,7 @@
 {
-  "versionCode": 170,
-  "versionName": "1.0.169-native",
+  "versionCode": 171,
+  "versionName": "1.0.170-native",
   "apkUrl": "https://raw.githubusercontent.com/jangid0008/jangidx-native-updates/main/JANGIDX-Native-Final.apk",
-  "notes": "Crash fix v2: Mini player drag completely rewrite — Animatable se mutable state par shift kiya, ab koi concurrent mutation nahi. Drag bilkul smooth, no crash.",
+  "notes": "Added continuous interactive mini-player to full-player drag expansion with reversible settling.",
   "force": false
 }
