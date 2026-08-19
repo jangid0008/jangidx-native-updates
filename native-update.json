@@ -1,7 +1,7 @@
 {
-  "versionCode": 178,
-  "versionName": "1.0.177-native",
+  "versionCode": 179,
+  "versionName": "1.0.178-native",
   "apkUrl": "https://raw.githubusercontent.com/jangid0008/jangidx-native-updates/main/JANGIDX-Native-Final.apk",
-  "notes": "Aligned full-player button touch coordinates with the animated visual position.",
+  "notes": "Moved full-player control touch targets onto the visible button positions.",
   "force": false
 }
