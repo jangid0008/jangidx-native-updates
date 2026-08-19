@@ -1,7 +1,7 @@
 {
-  "versionCode": 173,
-  "versionName": "1.0.172-native",
+  "versionCode": 174,
+  "versionName": "1.0.173-native",
   "apkUrl": "https://raw.githubusercontent.com/jangid0008/jangidx-native-updates/main/JANGIDX-Native-Final.apk",
-  "notes": "Fixed slight upward drag bounce and added smoother small-to-large album art transformation.",
+  "notes": "Mini player and full player now stay attached during continuous drag, reversal, and smooth settle.",
   "force": false
 }
