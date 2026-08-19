@@ -1,7 +1,7 @@
 {
-  "versionCode": 177,
-  "versionName": "1.0.176-native",
+  "versionCode": 178,
+  "versionName": "1.0.177-native",
   "apkUrl": "https://raw.githubusercontent.com/jangid0008/jangidx-native-updates/main/JANGIDX-Native-Final.apk",
-  "notes": "Restricted player control touch areas to the visible buttons; upper empty row area no longer triggers actions.",
+  "notes": "Aligned full-player button touch coordinates with the animated visual position.",
   "force": false
 }
