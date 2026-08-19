@@ -1,7 +1,7 @@
 {
-  "versionCode": 172,
-  "versionName": "1.0.171-native",
+  "versionCode": 173,
+  "versionName": "1.0.172-native",
   "apkUrl": "https://raw.githubusercontent.com/jangid0008/jangidx-native-updates/main/JANGIDX-Native-Final.apk",
-  "notes": "Improved mini-player drag stability: direct finger progress with smooth reversible settling.",
+  "notes": "Fixed slight upward drag bounce and added smoother small-to-large album art transformation.",
   "force": false
 }
