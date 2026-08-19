@@ -1,7 +1,7 @@
 {
-  "versionCode": 171,
-  "versionName": "1.0.170-native",
+  "versionCode": 172,
+  "versionName": "1.0.171-native",
   "apkUrl": "https://raw.githubusercontent.com/jangid0008/jangidx-native-updates/main/JANGIDX-Native-Final.apk",
-  "notes": "Added continuous interactive mini-player to full-player drag expansion with reversible settling.",
+  "notes": "Improved mini-player drag stability: direct finger progress with smooth reversible settling.",
   "force": false
 }
