@@ -1,7 +1,7 @@
 {
-  "versionCode": 185,
-  "versionName": "1.0.184-native",
+  "versionCode": 187,
+  "versionName": "1.0.186-native",
   "apkUrl": "https://raw.githubusercontent.com/jangid0008/jangidx-native-updates/main/JANGIDX-Native-Final.apk",
-  "notes": "Expanded full-player button touch areas downward without moving the visible controls.",
+  "notes": "Made full-player control buttons use large reliable hit targets with the same design.",
   "force": false
 }
