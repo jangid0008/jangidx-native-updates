@@ -1,7 +1,7 @@
 {
-  "versionCode": 191,
-  "versionName": "1.0.190-native",
+  "versionCode": 192,
+  "versionName": "1.0.191-native",
   "apkUrl": "https://raw.githubusercontent.com/jangid0008/jangidx-native-updates/main/JANGIDX-Native-Final.apk",
-  "notes": "Fixed full-player artwork drag, seek jump-back, buffering shrink, and active dot position.",
+  "notes": "Restored play/pause artwork scale while keeping buffering from flipping the play state.",
   "force": false
 }
