@@ -1,7 +1,7 @@
 {
-  "versionCode": 187,
-  "versionName": "1.0.186-native",
+  "versionCode": 188,
+  "versionName": "1.0.187-native",
   "apkUrl": "https://raw.githubusercontent.com/jangid0008/jangidx-native-updates/main/JANGIDX-Native-Final.apk",
-  "notes": "Made full-player control buttons use large reliable hit targets with the same design.",
+  "notes": "Changed full-player controls to direct IconButton hit targets like the top controls.",
   "force": false
 }
