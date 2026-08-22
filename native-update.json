@@ -1,7 +1,7 @@
 {
-  "versionCode": 189,
-  "versionName": "1.0.188-native",
+  "versionCode": 190,
+  "versionName": "1.0.189-native",
   "apkUrl": "https://raw.githubusercontent.com/jangid0008/jangidx-native-updates/main/JANGIDX-Native-Final.apk",
-  "notes": "Prevented bottom nav touch-through while full player is open and kept controls on direct IconButton targets.",
+  "notes": "Removed full-player scale transform so button touch positions match the visible controls.",
   "force": false
 }
