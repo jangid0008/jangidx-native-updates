@@ -1,7 +1,7 @@
 {
-  "versionCode": 199,
-  "versionName": "1.0.198-native",
+  "versionCode": 200,
+  "versionName": "1.0.199-native",
   "apkUrl": "https://raw.githubusercontent.com/jangid0008/jangidx-native-updates/main/JANGIDX-Native-Final.apk",
-  "notes": "Made playlist creation a keyboard-aware popup and forced update button text to black.",
+  "notes": "Improved update download reuse, mini-player save behavior, library artist opening, and back-arrow positioning.",
   "force": false
 }
