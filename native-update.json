@@ -1,7 +1,7 @@
 {
-  "versionCode": 197,
-  "versionName": "1.0.196-native",
+  "versionCode": 198,
+  "versionName": "1.0.197-native",
   "apkUrl": "https://raw.githubusercontent.com/jangid0008/jangidx-native-updates/main/JANGIDX-Native-Final.apk",
-  "notes": "Updated Rajasthani Marwadi Hits playlist, improved library create flow, cached quick picks startup, artist saves, and mini-player save options.",
+  "notes": "Improved update dialog contrast, Data Saver low-quality playback mode, mini-player save sheet, and genre/artist UI polish.",
   "force": false
 }
