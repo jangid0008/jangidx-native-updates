@@ -1,7 +1,7 @@
 {
-  "versionCode": 195,
-  "versionName": "1.0.194-native",
+  "versionCode": 196,
+  "versionName": "1.0.195-native",
   "apkUrl": "https://raw.githubusercontent.com/jangid0008/jangidx-native-updates/main/JANGIDX-Native-Final.apk",
-  "notes": "Added Wi-Fi reconnect recovery so pending playback resumes without restarting the app.",
+  "notes": "Added media browser support so JANGIDX can appear in Bixby music and Android Auto media lists.",
   "force": false
 }
