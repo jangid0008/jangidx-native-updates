@@ -1,7 +1,7 @@
 {
-  "versionCode": 194,
-  "versionName": "1.0.193-native",
+  "versionCode": 195,
+  "versionName": "1.0.194-native",
   "apkUrl": "https://raw.githubusercontent.com/jangid0008/jangidx-native-updates/main/JANGIDX-Native-Final.apk",
-  "notes": "Moved full-player active dots closer to the controls and refreshed playback notification buttons.",
+  "notes": "Added Wi-Fi reconnect recovery so pending playback resumes without restarting the app.",
   "force": false
 }
