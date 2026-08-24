@@ -1,7 +1,7 @@
 {
-  "versionCode": 216,
-  "versionName": "1.0.215-native",
+  "versionCode": 217,
+  "versionName": "1.0.216-native",
   "apkUrl": "https://raw.githubusercontent.com/jangid0008/jangidx-native-updates/main/JANGIDX-Native-Final.apk",
-  "notes": "Uses ExoPlayer for reliable immediate offline playback and validates downloaded audio before marking it complete.",
+  "notes": "Caches full-player thumbnail colours permanently and reuses Coil disk thumbnails for an offline-ready player background.",
   "force": false
 }
