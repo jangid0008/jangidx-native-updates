@@ -1,7 +1,7 @@
 {
-  "versionCode": 206,
-  "versionName": "1.0.205-native",
+  "versionCode": 207,
+  "versionName": "1.0.206-native",
   "apkUrl": "https://raw.githubusercontent.com/jangid0008/jangidx-native-updates/main/JANGIDX-Native-Final.apk",
-  "notes": "Forces the lowest available YouTube playback quality while Data Saver is enabled.",
+  "notes": "Caps normal playback at 480p, keeps Data Saver at the lowest 144p quality, and removes the Data Saver toggle popup message.",
   "force": false
 }
