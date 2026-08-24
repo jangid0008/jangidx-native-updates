@@ -1,7 +1,7 @@
 {
-  "versionCode": 213,
-  "versionName": "1.0.212-native",
+  "versionCode": 214,
+  "versionName": "1.0.213-native",
   "apkUrl": "https://raw.githubusercontent.com/jangid0008/jangidx-native-updates/main/JANGIDX-Native-Final.apk",
-  "notes": "Keeps playlist and album downloads running in the background, restores download state after reopening, and adds an in-button progress animation.",
+  "notes": "Fixes downloaded playback queues and local playback fallback, shows Downloaded status, and automatically downloads new collection tracks.",
   "force": false
 }
