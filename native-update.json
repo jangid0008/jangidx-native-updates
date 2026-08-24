@@ -1,7 +1,7 @@
 {
-  "versionCode": 220,
-  "versionName": "1.0.219-native",
+  "versionCode": 221,
+  "versionName": "1.0.220-native",
   "apkUrl": "https://raw.githubusercontent.com/jangid0008/jangidx-native-updates/main/JANGIDX-Native-Final.apk",
-  "notes": "Keeps Downloads and downloaded playlists audio-only while allowing video for the same songs played from Home, Search, or genres.",
+  "notes": "Adds dedicated icons and clean state labels to the full-player options menu.",
   "force": false
 }
