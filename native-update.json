@@ -1,7 +1,7 @@
 {
-  "versionCode": 218,
-  "versionName": "1.0.217-native",
+  "versionCode": 219,
+  "versionName": "1.0.218-native",
   "apkUrl": "https://raw.githubusercontent.com/jangid0008/jangidx-native-updates/main/JANGIDX-Native-Final.apk",
-  "notes": "Restores downloaded collections in My Playlists and enables timestamp-preserving video switching for downloaded songs when online.",
+  "notes": "Makes audio and video switching smoother with direct timestamp loading and playback-ready source handoff.",
   "force": false
 }
