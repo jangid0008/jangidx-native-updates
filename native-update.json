@@ -1,7 +1,7 @@
 {
-  "versionCode": 207,
-  "versionName": "1.0.206-native",
+  "versionCode": 208,
+  "versionName": "1.0.207-native",
   "apkUrl": "https://raw.githubusercontent.com/jangid0008/jangidx-native-updates/main/JANGIDX-Native-Final.apk",
-  "notes": "Caps normal playback at 480p, keeps Data Saver at the lowest 144p quality, and removes the Data Saver toggle popup message.",
+  "notes": "Downloads songs from the full-player menu, saves completed audio in Library Downloads, and plays downloaded songs offline.",
   "force": false
 }
