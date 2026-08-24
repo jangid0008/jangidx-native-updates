@@ -1,7 +1,7 @@
 {
-  "versionCode": 219,
-  "versionName": "1.0.218-native",
+  "versionCode": 220,
+  "versionName": "1.0.219-native",
   "apkUrl": "https://raw.githubusercontent.com/jangid0008/jangidx-native-updates/main/JANGIDX-Native-Final.apk",
-  "notes": "Makes audio and video switching smoother with direct timestamp loading and playback-ready source handoff.",
+  "notes": "Keeps Downloads and downloaded playlists audio-only while allowing video for the same songs played from Home, Search, or genres.",
   "force": false
 }
