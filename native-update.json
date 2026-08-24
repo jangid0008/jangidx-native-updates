@@ -1,7 +1,7 @@
 {
-  "versionCode": 200,
-  "versionName": "1.0.199-native",
+  "versionCode": 201,
+  "versionName": "1.0.200-native",
   "apkUrl": "https://raw.githubusercontent.com/jangid0008/jangidx-native-updates/main/JANGIDX-Native-Final.apk",
-  "notes": "Improved update download reuse, mini-player save behavior, library artist opening, and back-arrow positioning.",
+  "notes": "Starts update APK preparation as soon as the popup opens so the Update click can install faster.",
   "force": false
 }
