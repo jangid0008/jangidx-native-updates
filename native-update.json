@@ -1,7 +1,7 @@
 {
-  "versionCode": 210,
-  "versionName": "1.0.209-native",
+  "versionCode": 211,
+  "versionName": "1.0.210-native",
   "apkUrl": "https://raw.githubusercontent.com/jangid0008/jangidx-native-updates/main/JANGIDX-Native-Final.apk",
-  "notes": "Fixes persistent song download failures by using a verified complete offline MP4 stream with retries and detailed errors.",
+  "notes": "Adds notification download progress, prefers 144p downloads, keeps the current page open, and disables video mode for offline songs.",
   "force": false
 }
