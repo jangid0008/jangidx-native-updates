@@ -1,7 +1,7 @@
 {
-  "versionCode": 222,
-  "versionName": "1.0.221-native",
+  "versionCode": 223,
+  "versionName": "1.0.222-native",
   "apkUrl": "https://raw.githubusercontent.com/jangid0008/jangidx-native-updates/main/JANGIDX-Native-Final.apk",
-  "notes": "Keeps downloaded playlists and albums in Library when their Saved state is removed.",
+  "notes": "Keeps playlist and album Saved status consistent between Library and Search.",
   "force": false
 }
