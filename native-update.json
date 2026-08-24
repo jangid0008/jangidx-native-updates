@@ -1,7 +1,7 @@
 {
-  "versionCode": 203,
-  "versionName": "1.0.202-native",
+  "versionCode": 204,
+  "versionName": "1.0.203-native",
   "apkUrl": "https://raw.githubusercontent.com/jangid0008/jangidx-native-updates/main/JANGIDX-Native-Final.apk",
-  "notes": "Keeps Quick Picks cached thumbnails on online start and replaces playlist/album loading text with grey skeleton rows.",
+  "notes": "Keeps library artist pages open after subscribe changes, makes Quick Picks thumbnails cache-first online, and adds fading playlist/album grid skeletons.",
   "force": false
 }
