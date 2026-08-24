@@ -1,7 +1,7 @@
 {
-  "versionCode": 212,
-  "versionName": "1.0.211-native",
+  "versionCode": 213,
+  "versionName": "1.0.212-native",
   "apkUrl": "https://raw.githubusercontent.com/jangid0008/jangidx-native-updates/main/JANGIDX-Native-Final.apk",
-  "notes": "Adds playlist and album downloads with one progress notification and keeps downloaded collections deduplicated in My Playlists.",
+  "notes": "Keeps playlist and album downloads running in the background, restores download state after reopening, and adds an in-button progress animation.",
   "force": false
 }
