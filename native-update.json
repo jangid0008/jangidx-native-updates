@@ -1,7 +1,7 @@
 {
-  "versionCode": 214,
-  "versionName": "1.0.213-native",
+  "versionCode": 215,
+  "versionName": "1.0.214-native",
   "apkUrl": "https://raw.githubusercontent.com/jangid0008/jangidx-native-updates/main/JANGIDX-Native-Final.apk",
-  "notes": "Fixes downloaded playback queues and local playback fallback, shows Downloaded status, and automatically downloads new collection tracks.",
+  "notes": "Fixes playlist tracks failing when YouTube omits content length, allowing all available collection songs to download.",
   "force": false
 }
