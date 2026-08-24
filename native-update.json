@@ -1,7 +1,7 @@
 {
-  "versionCode": 204,
-  "versionName": "1.0.203-native",
+  "versionCode": 205,
+  "versionName": "1.0.204-native",
   "apkUrl": "https://raw.githubusercontent.com/jangid0008/jangidx-native-updates/main/JANGIDX-Native-Final.apk",
-  "notes": "Keeps library artist pages open after subscribe changes, makes Quick Picks thumbnails cache-first online, and adds fading playlist/album grid skeletons.",
+  "notes": "Downloads updates only after tapping Update, resets Library to its home on tab tap, shows albums on saved artist pages, and keeps the new-playlist dialog close to the keyboard.",
   "force": false
 }
