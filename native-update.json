@@ -1,7 +1,7 @@
 {
-  "versionCode": 202,
-  "versionName": "1.0.201-native",
+  "versionCode": 203,
+  "versionName": "1.0.202-native",
   "apkUrl": "https://raw.githubusercontent.com/jangid0008/jangidx-native-updates/main/JANGIDX-Native-Final.apk",
-  "notes": "Fixes repeat update popup, library save states, artist unsubscribe, playlist saving during loading, and mini player heart behavior.",
+  "notes": "Keeps Quick Picks cached thumbnails on online start and replaces playlist/album loading text with grey skeleton rows.",
   "force": false
 }
