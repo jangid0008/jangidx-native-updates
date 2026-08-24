@@ -1,7 +1,7 @@
 {
-  "versionCode": 205,
-  "versionName": "1.0.204-native",
+  "versionCode": 206,
+  "versionName": "1.0.205-native",
   "apkUrl": "https://raw.githubusercontent.com/jangid0008/jangidx-native-updates/main/JANGIDX-Native-Final.apk",
-  "notes": "Downloads updates only after tapping Update, resets Library to its home on tab tap, shows albums on saved artist pages, and keeps the new-playlist dialog close to the keyboard.",
+  "notes": "Forces the lowest available YouTube playback quality while Data Saver is enabled.",
   "force": false
 }
