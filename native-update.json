@@ -1,7 +1,7 @@
 {
-  "versionCode": 209,
-  "versionName": "1.0.208-native",
+  "versionCode": 210,
+  "versionName": "1.0.209-native",
   "apkUrl": "https://raw.githubusercontent.com/jangid0008/jangidx-native-updates/main/JANGIDX-Native-Final.apk",
-  "notes": "Fixes failed song downloads using validated ranged audio chunks with retry support.",
+  "notes": "Fixes persistent song download failures by using a verified complete offline MP4 stream with retries and detailed errors.",
   "force": false
 }
