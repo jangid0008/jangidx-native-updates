@@ -1,7 +1,7 @@
 {
-  "versionCode": 217,
-  "versionName": "1.0.216-native",
+  "versionCode": 218,
+  "versionName": "1.0.217-native",
   "apkUrl": "https://raw.githubusercontent.com/jangid0008/jangidx-native-updates/main/JANGIDX-Native-Final.apk",
-  "notes": "Caches full-player thumbnail colours permanently and reuses Coil disk thumbnails for an offline-ready player background.",
+  "notes": "Restores downloaded collections in My Playlists and enables timestamp-preserving video switching for downloaded songs when online.",
   "force": false
 }
