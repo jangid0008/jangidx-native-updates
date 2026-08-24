@@ -1,7 +1,7 @@
 {
-  "versionCode": 211,
-  "versionName": "1.0.210-native",
+  "versionCode": 212,
+  "versionName": "1.0.211-native",
   "apkUrl": "https://raw.githubusercontent.com/jangid0008/jangidx-native-updates/main/JANGIDX-Native-Final.apk",
-  "notes": "Adds notification download progress, prefers 144p downloads, keeps the current page open, and disables video mode for offline songs.",
+  "notes": "Adds playlist and album downloads with one progress notification and keeps downloaded collections deduplicated in My Playlists.",
   "force": false
 }
