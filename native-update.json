@@ -1,7 +1,7 @@
 {
-  "versionCode": 225,
-  "versionName": "1.0.224-native",
+  "versionCode": 226,
+  "versionName": "1.0.225-native",
   "apkUrl": "https://raw.githubusercontent.com/jangid0008/jangidx-native-updates/main/JANGIDX-Native-Final.apk",
-  "notes": "Automatically resumes a pending song when internet returns after an offline launch; hides search selection handles from the full player; and refines the player menu button.",
+  "notes": "Makes the full-player 3-dot options popup more compact, with the reconnect and search-handle fixes included.",
   "force": false
 }
