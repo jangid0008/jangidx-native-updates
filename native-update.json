@@ -1,7 +1,7 @@
 {
-  "versionCode": 227,
-  "versionName": "1.0.226-native",
+  "versionCode": 228,
+  "versionName": "1.0.227-native",
   "apkUrl": "https://raw.githubusercontent.com/jangid0008/jangidx-native-updates/main/JANGIDX-Native-Final.apk",
-  "notes": "Runs each video at 144p or the lowest supported quality while Data Saver is enabled.",
+  "notes": "Opens Artist Top Songs from the top, restores the 3-dot button size, and keeps its options popup compact.",
   "force": false
 }
