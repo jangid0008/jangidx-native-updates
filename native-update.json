@@ -1,7 +1,7 @@
 {
-  "versionCode": 231,
-  "versionName": "1.0.230-native",
+  "versionCode": 232,
+  "versionName": "1.0.231-native",
   "apkUrl": "https://raw.githubusercontent.com/jangid0008/jangidx-native-updates/main/JANGIDX-Native-Final.apk",
-  "notes": "Uses 144p or the lowest quality for audio-only playback, then raises video adaptively up to 480p when video mode is enabled.",
+  "notes": "Lets the video's native center play/pause indicator fade normally after playback starts by removing repeated quality-change enforcement.",
   "force": false
 }
