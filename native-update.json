@@ -1,7 +1,7 @@
 {
-  "versionCode": 230,
-  "versionName": "1.0.229-native",
+  "versionCode": 231,
+  "versionName": "1.0.230-native",
   "apkUrl": "https://raw.githubusercontent.com/jangid0008/jangidx-native-updates/main/JANGIDX-Native-Final.apk",
-  "notes": "Keeps the full playback notification and its Previous, Play/Pause, and Next controls after the app is removed from recent apps.",
+  "notes": "Uses 144p or the lowest quality for audio-only playback, then raises video adaptively up to 480p when video mode is enabled.",
   "force": false
 }
