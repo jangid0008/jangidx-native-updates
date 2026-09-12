@@ -1,7 +1,7 @@
 {
-  "versionCode": 228,
-  "versionName": "1.0.227-native",
+  "versionCode": 229,
+  "versionName": "1.0.228-native",
   "apkUrl": "https://raw.githubusercontent.com/jangid0008/jangidx-native-updates/main/JANGIDX-Native-Final.apk",
-  "notes": "Opens Artist Top Songs from the top, restores the 3-dot button size, and keeps its options popup compact.",
+  "notes": "Removes sign-in, sign-out, and login-failure status messages from the home screen.",
   "force": false
 }
