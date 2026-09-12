@@ -1,7 +1,7 @@
 {
-  "versionCode": 223,
-  "versionName": "1.0.222-native",
+  "versionCode": 224,
+  "versionName": "1.0.223-native",
   "apkUrl": "https://raw.githubusercontent.com/jangid0008/jangidx-native-updates/main/JANGIDX-Native-Final.apk",
-  "notes": "Keeps playlist and album Saved status consistent between Library and Search.",
+  "notes": "Automatically resumes a pending song when internet returns after an offline launch, and removes the stray search cursor handle from the full player.",
   "force": false
 }
