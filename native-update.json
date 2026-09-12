@@ -1,7 +1,7 @@
 {
-  "versionCode": 229,
-  "versionName": "1.0.228-native",
+  "versionCode": 230,
+  "versionName": "1.0.229-native",
   "apkUrl": "https://raw.githubusercontent.com/jangid0008/jangidx-native-updates/main/JANGIDX-Native-Final.apk",
-  "notes": "Removes sign-in, sign-out, and login-failure status messages from the home screen.",
+  "notes": "Keeps the full playback notification and its Previous, Play/Pause, and Next controls after the app is removed from recent apps.",
   "force": false
 }
