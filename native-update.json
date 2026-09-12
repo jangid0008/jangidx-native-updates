@@ -1,7 +1,7 @@
 {
-  "versionCode": 226,
-  "versionName": "1.0.225-native",
+  "versionCode": 227,
+  "versionName": "1.0.226-native",
   "apkUrl": "https://raw.githubusercontent.com/jangid0008/jangidx-native-updates/main/JANGIDX-Native-Final.apk",
-  "notes": "Makes the full-player 3-dot options popup more compact, with the reconnect and search-handle fixes included.",
+  "notes": "Runs each video at 144p or the lowest supported quality while Data Saver is enabled.",
   "force": false
 }
