@@ -1,7 +1,7 @@
 {
-  "versionCode": 232,
-  "versionName": "1.0.231-native",
+  "versionCode": 233,
+  "versionName": "1.0.232-native",
   "apkUrl": "https://raw.githubusercontent.com/jangid0008/jangidx-native-updates/main/JANGIDX-Native-Final.apk",
-  "notes": "Lets the video's native center play/pause indicator fade normally after playback starts by removing repeated quality-change enforcement.",
+  "notes": "Prevents online songs from getting stuck at 0:00 with automatic playback recovery, and loads Auto Suggest recommendations after the first played song.",
   "force": false
 }
