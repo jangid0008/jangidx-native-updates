@@ -1,7 +1,7 @@
 {
-  "versionCode": 233,
-  "versionName": "1.0.232-native",
+  "versionCode": 238,
+  "versionName": "1.0.237-native",
   "apkUrl": "https://raw.githubusercontent.com/jangid0008/jangidx-native-updates/main/JANGIDX-Native-Final.apk",
-  "notes": "Prevents online songs from getting stuck at 0:00 with automatic playback recovery, and loads Auto Suggest recommendations after the first played song.",
+  "notes": "Restores playlists, liked songs, and subscribed artists after sign-in or reinstall. Quick Picks now loads the linked YouTube playlist in reverse order.",
   "force": false
 }
