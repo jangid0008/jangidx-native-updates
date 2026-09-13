@@ -1,7 +1,7 @@
 {
-  "versionCode": 243,
-  "versionName": "1.0.242-native",
+  "versionCode": 244,
+  "versionName": "1.0.243-native",
   "apkUrl": "https://raw.githubusercontent.com/jangid0008/jangidx-native-updates/main/JANGIDX-Native-Final.apk",
-  "notes": "Corrects the direction of the animated Auto Suggest loading Refresh border.",
+  "notes": "Adds Firebase push notifications for all users, including foreground, background, and swipe-closed delivery.",
   "force": false
 }
