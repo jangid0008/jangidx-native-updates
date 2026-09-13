@@ -1,7 +1,7 @@
 {
-  "versionCode": 241,
-  "versionName": "1.0.240-native",
+  "versionCode": 242,
+  "versionName": "1.0.241-native",
   "apkUrl": "https://raw.githubusercontent.com/jangid0008/jangidx-native-updates/main/JANGIDX-Native-Final.apk",
-  "notes": "Moves Auto Suggest loading feedback to an animated white border around the Refresh button.",
+  "notes": "Replaces the dashed Refresh loading border with one smooth white segment moving around the button.",
   "force": false
 }
