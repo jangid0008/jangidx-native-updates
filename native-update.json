@@ -1,7 +1,7 @@
 {
-  "versionCode": 239,
-  "versionName": "1.0.238-native",
+  "versionCode": 240,
+  "versionName": "1.0.239-native",
   "apkUrl": "https://raw.githubusercontent.com/jangid0008/jangidx-native-updates/main/JANGIDX-Native-Final.apk",
-  "notes": "Auto Suggest loads once after the first played song and only changes when Refresh is tapped.",
+  "notes": "Shows a white loading spinner and border on the Auto Suggest Refresh button while recommendations load.",
   "force": false
 }
