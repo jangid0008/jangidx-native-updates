@@ -1,7 +1,7 @@
 {
-  "versionCode": 249,
-  "versionName": "1.0.248-native",
+  "versionCode": 250,
+  "versionName": "1.0.249-native",
   "apkUrl": "https://raw.githubusercontent.com/jangid0008/jangidx-native-updates/main/JANGIDX-Native-Final.apk",
-  "notes": "Shows the full uncropped landscape video while shielding YouTube chrome during rotation and pause.",
+  "notes": "Adds portrait-style black video strips in landscape and simplifies the Bass Booster bar without a thumb dot.",
   "force": false
 }
