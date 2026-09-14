@@ -1,7 +1,7 @@
 {
-  "versionCode": 247,
-  "versionName": "1.0.246-native",
+  "versionCode": 248,
+  "versionName": "1.0.247-native",
   "apkUrl": "https://raw.githubusercontent.com/jangid0008/jangidx-native-updates/main/JANGIDX-Native-Final.apk",
-  "notes": "Fixes videos becoming a thin strip after rotating the full player to landscape.",
+  "notes": "Hides YouTube chrome in landscape while keeping the video large and correctly proportioned.",
   "force": false
 }
