@@ -1,7 +1,7 @@
 {
-  "versionCode": 250,
-  "versionName": "1.0.249-native",
+  "versionCode": 251,
+  "versionName": "1.0.250-native",
   "apkUrl": "https://raw.githubusercontent.com/jangid0008/jangidx-native-updates/main/JANGIDX-Native-Final.apk",
-  "notes": "Adds portrait-style black video strips in landscape and simplifies the Bass Booster bar without a thumb dot.",
+  "notes": "Balances the landscape video size and reduces the top and bottom black strips.",
   "force": false
 }
