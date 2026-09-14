@@ -1,7 +1,7 @@
 {
-  "versionCode": 245,
-  "versionName": "1.0.244-native",
+  "versionCode": 246,
+  "versionName": "1.0.245-native",
   "apkUrl": "https://raw.githubusercontent.com/jangid0008/jangidx-native-updates/main/JANGIDX-Native-Final.apk",
-  "notes": "Adds multi-select deletion for downloaded songs and an adjustable Bass Booster strength slider.",
+  "notes": "Refines the Bass Booster control with a thicker capsule slider and adjustable strength.",
   "force": false
 }
