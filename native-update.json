@@ -1,7 +1,7 @@
 {
-  "versionCode": 251,
-  "versionName": "1.0.250-native",
+  "versionCode": 252,
+  "versionName": "1.0.251-native",
   "apkUrl": "https://raw.githubusercontent.com/jangid0008/jangidx-native-updates/main/JANGIDX-Native-Final.apk",
-  "notes": "Balances the landscape video size and reduces the top and bottom black strips.",
+  "notes": "Restores the original landscape player size and adds only a top and bottom overlay mask.",
   "force": false
 }
