@@ -1,7 +1,7 @@
 {
-  "versionCode": 246,
-  "versionName": "1.0.245-native",
+  "versionCode": 247,
+  "versionName": "1.0.246-native",
   "apkUrl": "https://raw.githubusercontent.com/jangid0008/jangidx-native-updates/main/JANGIDX-Native-Final.apk",
-  "notes": "Refines the Bass Booster control with a thicker capsule slider and adjustable strength.",
+  "notes": "Fixes videos becoming a thin strip after rotating the full player to landscape.",
   "force": false
 }
