@@ -1,7 +1,7 @@
 {
-  "versionCode": 257,
-  "versionName": "1.0.256-native",
+  "versionCode": 258,
+  "versionName": "1.0.257-native",
   "apkUrl": "https://raw.githubusercontent.com/jangid0008/jangidx-native-updates/main/JANGIDX-Native-Final.apk",
-  "notes": "Prevents Bluetooth connection from closing the player, pausing the song, or resetting its timeline.",
+  "notes": "Automatically completes short Auto Suggest lists after network connectivity becomes ready.",
   "force": false
 }
