@@ -1,7 +1,7 @@
 {
-  "versionCode": 244,
-  "versionName": "1.0.243-native",
+  "versionCode": 245,
+  "versionName": "1.0.244-native",
   "apkUrl": "https://raw.githubusercontent.com/jangid0008/jangidx-native-updates/main/JANGIDX-Native-Final.apk",
-  "notes": "Adds Firebase push notifications for all users, including foreground, background, and swipe-closed delivery.",
+  "notes": "Adds multi-select deletion for downloaded songs and an adjustable Bass Booster strength slider.",
   "force": false
 }
