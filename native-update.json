@@ -1,7 +1,7 @@
 {
-  "versionCode": 252,
-  "versionName": "1.0.251-native",
+  "versionCode": 253,
+  "versionName": "1.0.252-native",
   "apkUrl": "https://raw.githubusercontent.com/jangid0008/jangidx-native-updates/main/JANGIDX-Native-Final.apk",
-  "notes": "Restores the original landscape player size and adds only a top and bottom overlay mask.",
+  "notes": "Extends the landscape top and bottom masks to fully hide the remaining YouTube chrome.",
   "force": false
 }
