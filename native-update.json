@@ -1,7 +1,7 @@
 {
-  "versionCode": 256,
-  "versionName": "1.0.255-native",
+  "versionCode": 257,
+  "versionName": "1.0.256-native",
   "apkUrl": "https://raw.githubusercontent.com/jangid0008/jangidx-native-updates/main/JANGIDX-Native-Final.apk",
-  "notes": "Makes Bass Booster target low frequencies without compressing or boosting the overall volume.",
+  "notes": "Prevents Bluetooth connection from closing the player, pausing the song, or resetting its timeline.",
   "force": false
 }
