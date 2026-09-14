@@ -1,7 +1,7 @@
 {
-  "versionCode": 253,
-  "versionName": "1.0.252-native",
+  "versionCode": 254,
+  "versionName": "1.0.253-native",
   "apkUrl": "https://raw.githubusercontent.com/jangid0008/jangidx-native-updates/main/JANGIDX-Native-Final.apk",
-  "notes": "Extends the landscape top and bottom masks to fully hide the remaining YouTube chrome.",
+  "notes": "Pauses playback when Bluetooth or headphones disconnect and finishes hiding landscape YouTube chrome.",
   "force": false
 }
