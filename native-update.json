@@ -1,7 +1,7 @@
 {
-  "versionCode": 248,
-  "versionName": "1.0.247-native",
+  "versionCode": 249,
+  "versionName": "1.0.248-native",
   "apkUrl": "https://raw.githubusercontent.com/jangid0008/jangidx-native-updates/main/JANGIDX-Native-Final.apk",
-  "notes": "Hides YouTube chrome in landscape while keeping the video large and correctly proportioned.",
+  "notes": "Shows the full uncropped landscape video while shielding YouTube chrome during rotation and pause.",
   "force": false
 }
