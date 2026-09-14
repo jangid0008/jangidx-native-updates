@@ -1,7 +1,7 @@
 {
-  "versionCode": 255,
-  "versionName": "1.0.254-native",
+  "versionCode": 256,
+  "versionName": "1.0.255-native",
   "apkUrl": "https://raw.githubusercontent.com/jangid0008/jangidx-native-updates/main/JANGIDX-Native-Final.apk",
-  "notes": "Automatically fills short Auto Suggest lists and slightly extends the landscape top overlay mask.",
+  "notes": "Makes Bass Booster target low frequencies without compressing or boosting the overall volume.",
   "force": false
 }
