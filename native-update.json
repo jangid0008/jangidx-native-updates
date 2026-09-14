@@ -1,7 +1,7 @@
 {
-  "versionCode": 254,
-  "versionName": "1.0.253-native",
+  "versionCode": 255,
+  "versionName": "1.0.254-native",
   "apkUrl": "https://raw.githubusercontent.com/jangid0008/jangidx-native-updates/main/JANGIDX-Native-Final.apk",
-  "notes": "Pauses playback when Bluetooth or headphones disconnect and finishes hiding landscape YouTube chrome.",
+  "notes": "Automatically fills short Auto Suggest lists and slightly extends the landscape top overlay mask.",
   "force": false
 }
