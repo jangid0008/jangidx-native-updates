@@ -1,7 +1,7 @@
 {
-  "versionCode": 265,
-  "versionName": "1.0.264-native",
+  "versionCode": 266,
+  "versionName": "1.0.265-native",
   "apkUrl": "https://raw.githubusercontent.com/jangid0008/jangidx-native-updates/main/JANGIDX-Native-Final.apk",
-  "notes": "Renames the second Rajasthani playlist to Marwadi Hits and the third playlist to Rajasthani Hits.",
+  "notes": "Refreshes Auto Suggest only on the first song selection of each app session and prevents Quick Picks from being copied into suggestions.",
   "force": false
 }
