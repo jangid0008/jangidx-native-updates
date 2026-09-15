@@ -1,7 +1,7 @@
 {
-  "versionCode": 268,
-  "versionName": "1.0.267-native",
+  "versionCode": 269,
+  "versionName": "1.0.268-native",
   "apkUrl": "https://raw.githubusercontent.com/jangid0008/jangidx-native-updates/main/JANGIDX-Native-Final.apk",
-  "notes": "Shows the normal Refresh loading state before Auto Suggest results appear after the first song selection.",
+  "notes": "Restores the short transition mask that prevents YouTube play and pause overlays from remaining visible over video.",
   "force": false
 }
