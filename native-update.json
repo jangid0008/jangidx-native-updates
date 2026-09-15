@@ -1,7 +1,7 @@
 {
-  "versionCode": 269,
-  "versionName": "1.0.268-native",
+  "versionCode": 270,
+  "versionName": "1.0.269",
   "apkUrl": "https://raw.githubusercontent.com/jangid0008/jangidx-native-updates/main/JANGIDX-Native-Final.apk",
-  "notes": "Restores the short transition mask that prevents YouTube play and pause overlays from remaining visible over video.",
+  "notes": "Lets the YouTube play and pause overlay auto-hide normally and removes the native suffix from the displayed version.",
   "force": false
 }
