@@ -1,7 +1,7 @@
 {
-  "versionCode": 264,
-  "versionName": "1.0.263-native",
+  "versionCode": 265,
+  "versionName": "1.0.264-native",
   "apkUrl": "https://raw.githubusercontent.com/jangid0008/jangidx-native-updates/main/JANGIDX-Native-Final.apk",
-  "notes": "Restores Marwadi Hitlist at number two and keeps Marwadi Hits at number three in Rajasthani playlists.",
+  "notes": "Renames the second Rajasthani playlist to Marwadi Hits and the third playlist to Rajasthani Hits.",
   "force": false
 }
