@@ -1,7 +1,7 @@
 {
-  "versionCode": 270,
-  "versionName": "1.0.269",
+  "versionCode": 271,
+  "versionName": "1.0.270",
   "apkUrl": "https://raw.githubusercontent.com/jangid0008/jangidx-native-updates/main/JANGIDX-Native-Final.apk",
-  "notes": "Lets the YouTube play and pause overlay auto-hide normally and removes the native suffix from the displayed version.",
+  "notes": "Runs the initial Auto Suggest refresh only once per install and fixes Zigane playback from Quick Picks.",
   "force": false
 }
