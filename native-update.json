@@ -1,7 +1,7 @@
 {
-  "versionCode": 261,
-  "versionName": "1.0.260-native",
+  "versionCode": 262,
+  "versionName": "1.0.261-native",
   "apkUrl": "https://raw.githubusercontent.com/jangid0008/jangidx-native-updates/main/JANGIDX-Native-Final.apk",
-  "notes": "Saves the refreshed Auto Suggest list and restores the same songs after reopening the app without auto-refreshing.",
+  "notes": "Adds Marwadi Hits as the third playlist in the Rajasthani section with its dedicated cover and YouTube playlist.",
   "force": false
 }
