@@ -1,7 +1,7 @@
 {
-  "versionCode": 263,
-  "versionName": "1.0.262-native",
+  "versionCode": 264,
+  "versionName": "1.0.263-native",
   "apkUrl": "https://raw.githubusercontent.com/jangid0008/jangidx-native-updates/main/JANGIDX-Native-Final.apk",
-  "notes": "Removes the rounded boxes behind songs on album and playlist detail screens for a cleaner open list.",
+  "notes": "Restores Marwadi Hitlist at number two and keeps Marwadi Hits at number three in Rajasthani playlists.",
   "force": false
 }
