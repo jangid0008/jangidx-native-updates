@@ -1,7 +1,7 @@
 {
-  "versionCode": 266,
-  "versionName": "1.0.265-native",
+  "versionCode": 267,
+  "versionName": "1.0.266-native",
   "apkUrl": "https://raw.githubusercontent.com/jangid0008/jangidx-native-updates/main/JANGIDX-Native-Final.apk",
-  "notes": "Refreshes Auto Suggest only on the first song selection of each app session and prevents Quick Picks from being copied into suggestions.",
+  "notes": "Makes the first-session Auto Suggest refresh silent and fixes playback for Zigane by Dhanda Nyoliwala.",
   "force": false
 }
