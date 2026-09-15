@@ -1,7 +1,7 @@
 {
-  "versionCode": 260,
-  "versionName": "1.0.259-native",
+  "versionCode": 261,
+  "versionName": "1.0.260-native",
   "apkUrl": "https://raw.githubusercontent.com/jangid0008/jangidx-native-updates/main/JANGIDX-Native-Final.apk",
-  "notes": "Prevents timeline seeking from starting a paused song and keeps the play button state synchronized.",
+  "notes": "Saves the refreshed Auto Suggest list and restores the same songs after reopening the app without auto-refreshing.",
   "force": false
 }
