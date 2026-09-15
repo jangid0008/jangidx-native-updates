@@ -1,7 +1,7 @@
 {
-  "versionCode": 262,
-  "versionName": "1.0.261-native",
+  "versionCode": 263,
+  "versionName": "1.0.262-native",
   "apkUrl": "https://raw.githubusercontent.com/jangid0008/jangidx-native-updates/main/JANGIDX-Native-Final.apk",
-  "notes": "Adds Marwadi Hits as the third playlist in the Rajasthani section with its dedicated cover and YouTube playlist.",
+  "notes": "Removes the rounded boxes behind songs on album and playlist detail screens for a cleaner open list.",
   "force": false
 }
