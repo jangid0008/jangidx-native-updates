@@ -1,7 +1,7 @@
 {
-  "versionCode": 272,
-  "versionName": "1.0.271",
+  "versionCode": 273,
+  "versionName": "1.0.272",
   "apkUrl": "https://raw.githubusercontent.com/jangid0008/jangidx-native-updates/main/JANGIDX-Native-Final.apk",
-  "notes": "Restores the official Zigane video and removes the duplicate playback command that could leave the YouTube play/pause overlay stuck.",
+  "notes": "Shows the first Auto Suggest loading state correctly, improves YouTube overlay cleanup, and stops playback when the app is cleared from Recents.",
   "force": false
 }
