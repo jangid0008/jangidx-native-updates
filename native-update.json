@@ -1,7 +1,7 @@
 {
-  "versionCode": 276,
-  "versionName": "1.0.275",
+  "versionCode": 277,
+  "versionName": "1.0.276",
   "apkUrl": "https://raw.githubusercontent.com/jangid0008/jangidx-native-updates/main/JANGIDX-Native-Final.apk",
-  "notes": "Uses max-resolution artwork in the full player while keeping lower-data thumbnails in Data Saver mode, with automatic fallback when unavailable.",
+  "notes": "Restores video rendering by removing the incompatible iframe overscan while retaining the smaller YouTube playback overlay.",
   "force": false
 }
