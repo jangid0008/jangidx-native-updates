@@ -1,7 +1,7 @@
 {
-  "versionCode": 273,
-  "versionName": "1.0.272",
+  "versionCode": 274,
+  "versionName": "1.0.273",
   "apkUrl": "https://raw.githubusercontent.com/jangid0008/jangidx-native-updates/main/JANGIDX-Native-Final.apk",
-  "notes": "Shows the first Auto Suggest loading state correctly, improves YouTube overlay cleanup, and stops playback when the app is cleared from Recents.",
+  "notes": "Reloads the embedded player cleanly when switching away from stalled playback so stale player UI does not carry into the next song.",
   "force": false
 }
