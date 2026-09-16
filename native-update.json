@@ -1,7 +1,7 @@
 {
-  "versionCode": 275,
-  "versionName": "1.0.274",
+  "versionCode": 276,
+  "versionName": "1.0.275",
   "apkUrl": "https://raw.githubusercontent.com/jangid0008/jangidx-native-updates/main/JANGIDX-Native-Final.apk",
-  "notes": "Shows search suggestion text sooner without waiting for slower media results and removes the scaled player edge seam.",
+  "notes": "Uses max-resolution artwork in the full player while keeping lower-data thumbnails in Data Saver mode, with automatic fallback when unavailable.",
   "force": false
 }
