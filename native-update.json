@@ -1,7 +1,7 @@
 {
-  "versionCode": 274,
-  "versionName": "1.0.273",
+  "versionCode": 275,
+  "versionName": "1.0.274",
   "apkUrl": "https://raw.githubusercontent.com/jangid0008/jangidx-native-updates/main/JANGIDX-Native-Final.apk",
-  "notes": "Reloads the embedded player cleanly when switching away from stalled playback so stale player UI does not carry into the next song.",
+  "notes": "Shows search suggestion text sooner without waiting for slower media results and removes the scaled player edge seam.",
   "force": false
 }
