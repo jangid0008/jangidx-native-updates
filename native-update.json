@@ -1,7 +1,7 @@
 {
-  "versionCode": 280,
-  "versionName": "1.0.279",
+  "versionCode": 281,
+  "versionName": "1.0.280",
   "apkUrl": "https://raw.githubusercontent.com/jangid0008/jangidx-native-updates/main/JANGIDX-Native-Final.apk",
-  "notes": "Removes the circular player glow and uses one seamless artwork-derived gradient from a bright top through a medium shade to black.",
+  "notes": "Refines full-player controls with smaller Audio/Video and menu buttons plus clean icon-only secondary playback controls.",
   "force": false
 }
