@@ -1,7 +1,7 @@
 {
-  "versionCode": 282,
-  "versionName": "1.0.281",
+  "versionCode": 283,
+  "versionName": "1.0.282",
   "apkUrl": "https://raw.githubusercontent.com/jangid0008/jangidx-native-updates/main/JANGIDX-Native-Final.apk",
-  "notes": "Restores the active dot for Shuffle and Repeat while keeping icon-only controls, and makes the three-dot touch feedback circular.",
+  "notes": "Uses the JANGIDX logo red for selected navigation, slightly softens the player gradient brightness, and makes the three-dot menu more compact.",
   "force": false
 }
