@@ -1,7 +1,7 @@
 {
-  "versionCode": 281,
-  "versionName": "1.0.280",
+  "versionCode": 282,
+  "versionName": "1.0.281",
   "apkUrl": "https://raw.githubusercontent.com/jangid0008/jangidx-native-updates/main/JANGIDX-Native-Final.apk",
-  "notes": "Refines full-player controls with smaller Audio/Video and menu buttons plus clean icon-only secondary playback controls.",
+  "notes": "Restores the active dot for Shuffle and Repeat while keeping icon-only controls, and makes the three-dot touch feedback circular.",
   "force": false
 }
