@@ -1,7 +1,7 @@
 {
-  "versionCode": 279,
-  "versionName": "1.0.278",
+  "versionCode": 280,
+  "versionName": "1.0.279",
   "apkUrl": "https://raw.githubusercontent.com/jangid0008/jangidx-native-updates/main/JANGIDX-Native-Final.apk",
-  "notes": "Adds a brighter artwork-derived full-player gradient that stays vivid at the top and smoothly darkens downward, plus a single-line scrolling title.",
+  "notes": "Removes the circular player glow and uses one seamless artwork-derived gradient from a bright top through a medium shade to black.",
   "force": false
 }
