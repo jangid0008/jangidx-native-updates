@@ -1,7 +1,7 @@
 {
-  "versionCode": 278,
-  "versionName": "1.0.277",
+  "versionCode": 279,
+  "versionName": "1.0.278",
   "apkUrl": "https://raw.githubusercontent.com/jangid0008/jangidx-native-updates/main/JANGIDX-Native-Final.apk",
-  "notes": "Shows cached player artwork immediately, then smoothly upgrades to max-resolution artwork when Data Saver is off.",
+  "notes": "Adds a brighter artwork-derived full-player gradient that stays vivid at the top and smoothly darkens downward, plus a single-line scrolling title.",
   "force": false
 }
