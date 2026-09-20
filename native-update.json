@@ -1,7 +1,7 @@
 {
-  "versionCode": 284,
-  "versionName": "1.0.283",
+  "versionCode": 285,
+  "versionName": "1.0.284",
   "apkUrl": "https://raw.githubusercontent.com/jangid0008/jangidx-native-updates/main/JANGIDX%20Music.apk",
-  "notes": "Adds a smooth shared-artwork transition between the mini player and full player for both tap and drag gestures.",
+  "notes": "Restores the original mini-player to full-player tap and drag animation.",
   "force": false
 }
