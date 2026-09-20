@@ -1,7 +1,7 @@
 {
-  "versionCode": 283,
-  "versionName": "1.0.282",
+  "versionCode": 284,
+  "versionName": "1.0.283",
   "apkUrl": "https://raw.githubusercontent.com/jangid0008/jangidx-native-updates/main/JANGIDX%20Music.apk",
-  "notes": "Uses the JANGIDX logo red for selected navigation, slightly softens the player gradient brightness, and makes the three-dot menu more compact.",
+  "notes": "Adds a smooth shared-artwork transition between the mini player and full player for both tap and drag gestures.",
   "force": false
 }
