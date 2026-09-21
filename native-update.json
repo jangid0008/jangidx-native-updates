@@ -1,7 +1,7 @@
 {
-  "versionCode": 285,
-  "versionName": "1.0.284",
+  "versionCode": 286,
+  "versionName": "1.0.285",
   "apkUrl": "https://raw.githubusercontent.com/jangid0008/jangidx-native-updates/main/JANGIDX%20Music.apk",
-  "notes": "Restores the original mini-player to full-player tap and drag animation.",
+  "notes": "Makes the top controls more compact, gives the search bar more width, and slightly reduces the bottom navigation controls.",
   "force": false
 }
