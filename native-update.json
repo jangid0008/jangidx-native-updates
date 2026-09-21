@@ -1,7 +1,7 @@
 {
-  "versionCode": 286,
-  "versionName": "1.0.285",
+  "versionCode": 287,
+  "versionName": "1.0.286",
   "apkUrl": "https://raw.githubusercontent.com/jangid0008/jangidx-native-updates/main/JANGIDX%20Music.apk",
-  "notes": "Makes the top controls more compact, gives the search bar more width, and slightly reduces the bottom navigation controls.",
+  "notes": "Slightly reduces the Refresh control, Quick Picks arrows, and Search result category buttons.",
   "force": false
 }
